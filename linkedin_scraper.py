@@ -38,7 +38,7 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                 break
 
             job_button.click()  #You might
-            time.sleep(1)
+            time.sleep(3)
             collected_successfully = False
             
             while not collected_successfully:
@@ -88,7 +88,6 @@ def get_jobs(keyword, num_jobs, verbose, path, slp_time):
                     'job_function': job_function,
                     'industries': industries                 
                 })
-            # driver.back()
             time.sleep(3)
 
     return pd.DataFrame(jobs)  #This line converts the dictionary object into a pandas DataFrame.
