@@ -1,265 +1,436 @@
-company_name,job_title,job_description,seniority_level,employment_type,job_function,industries
-Dell Technologies,Insights Data Scientist,"Data Scientist
+title,type,company_name,description,link,seniority_level,employment_type,job_function,industries
+Data Scientist,,Teradata,"Teradata, Egypt
 
-The Office of the CTO at Dell Technologies is responsible for predicting future technology trends and recommending investment strategies based on those trends. The Data Office team uses leading technologies in order to use data to predict future technology trends.
+Introduction
 
-You will be involved in assessing the competition, developing technology and products, and generating intellectual property. As a Data Scientist at the Data Office, you will join a global team of data scientists, developers, researchers, and technologists in researching and applying the latest ML and DL technologies, leveraging the Data power in adding innovation value to business strategic decisions.
+Data Science teams at Teradata deliver business insights and value to clients through big data analytics. Our data solutions integrate into engineering and decision-making processes. Additionally, we offer advisory services to our clients including use case prioritization, tool selection, training, and capability definitions.
 
-What You’ll Achieve
+Teradata is expanding its data science team in Cairo.
 
-As a Data Scientist, you will work with a cross functional global team to research, build and apply state of the art machine learning and deep learning technologies.
+We are looking for data scientists that are…
+Highly self-motivated
+Independent
+Keen on learning and continuous self-development
+Challengers of assumptions and status quo
+Job Responsibilities
 
-You Will
-Perform all the phases of a data science project: business understanding, data understanding and preparation, exploratory analysis, modeling, model evaluation, communicating results and business value of a model to the product leadership and finally deploying your data product.
-Manage your activities, scope and timelines on the projects with minimum supervision.
-Work with development teams & business groups to ensure models can be implemented as part of a delivered solution replicable across many clients.
-Keep abreast of the latest developments in the field by continuous learning and proactively champion promising new methods relevant to the problems at hand.
-Have the ability to explain and present results to customers and executive stakeholders.
+As a data scientist, you will independently and as part of a team
+Perform all the phases of a data science project business understanding, data understanding and preparation, exploratory analysis, modeling, model evaluation, communicating results and business value of a model to the client and finally deploying your data product.
+Follow team development processes.
+Based on the nature of the project and the available tools, quickly learn and adapt to different technologies and tools than the ones you are used to.
+Qualifications
+Sc. or equivalent working experience in data science / machine learning
+Analytical rigor
+Proficient in Python
+Intermediate level in either C, Java, C++, or C#
+Intermediate level in SQL
+Basic software engineering knowledge
+Excellent verbal and written communication skills
+Excellent technical presentation skills
+Teradata is an equal opportunity employer in all aspects of our business. We are excited by the unique qualities, abilities, and perspectives each person brings, and candidates are considered on all the fundamentals they may bring to the role and the team.
 
-Take the first step towards your dream career
+Our Company
 
-Essential Requirements
+Teradata (NYSE TDC) is the leading multi-cloud data platform company for enterprise analytics, transforming how businesses work and people live through the power of data.
 
-Every Dell Technologies team member brings something unique to the table. Here’s what we are looking for with this role:
-Fluency with at least one scripting language such as Python and experience with Python libraries (such as numpy, pandas, etc…)
-Strong applied mathematical and statistical skills regardless of the tools.
-Demonstrated experience in implementing ML algorithms from scratch and developing an algorithm documentation to be communicated with the other data scientists.
-Breadth of skills and experience in machine learning and deep learning techniques– diverse types of data and sources, different types of learning models, diverse learning settings.
-Basic knowledge of visualization tools (Power BI, Tableau, Qlikview, etc.).
-Demonstrated ability to propose novel solutions to problems, performing experiments to show feasibility of their solutions, and working to refine the solutions into a real-world context.
-Familiarity with graph analytics and graph databases/technology.
+At Teradata, we are leading the data era. As enterprises address today’s digital economy, they are faced with new competition and consumer expectations and are turning to data to power their future. Teradata has worked with the largest companies in the world for 40+ years, bringing our experience and expertise to support global enterprises with their most demanding, mission-critical, complex, and large-scale data needs. Teradata is recognized as a leader in the cloud, data, and analytics spaces by top analyst firms, Gartner and Forrester, and Fortune Magazine as well.
 
-Desirable Requirements
-Experience with ML libraries (such as SKLearn, MADlib, etc…) and Experience with ML frameworks (such as TensorFlow, Keras, etc…)
-Proficiency in using query languages such as SQL.
-Experience with Big data tools is preferred (Hadoop, Spark, etc.).
+Our connected multi-cloud data platform for enterprise analytics, Teradata Vantage™, is an extremely scalable, secure, and resilient offering that simplifies ecosystems by connecting data and making it easier to uncover insights from across the organization…regardless of where that data resides. With Vantage, we enable companies to modernize their data management, from start to scale. Every day, millions of users benefit from our open data platform. Empowering customers and partners to develop and build how they like, we enable hundreds of business outcomes and solutions, including improving customer experience and profitability, driving operational efficiency, realizing financial transformation, or achieving operational efficiency.
 
-Here’s our story; now tell us yours
+As the world of data grows, we are the leader in enabling the future of connected businesses, powered by data intelligence. We are committed to delivering on this vision by following sustainable business practices and with a strong focus on diversity, equity, and inclusion. We believe that only by embracing diversity of identity, thought, background, expression, and perspective can we solve today’s challenges and reimagine tomorrow’s world.",https://eg.linkedin.com/jobs/view/data-scientist-at-teradata-2736687404,Mid-Senior level,Full-time,Engineering and Information Technology,Computer Software and Information Technology and Services
+Data Scientist (Multiple Roles),,Careem,"We are hiring for roles in Pakistan, Egypt & Dubai
 
-Dell Technologies helps organizations and individuals build a brighter digital tomorrow. Our company is made up of more than 150,000 people, located in over 180 locations around the world. We’re proud to be a diverse and inclusive team and have an endless passion for our mission to drive human progress.
+The Careem Data Science and AI team’s mission is to drive competitive value from data at scale through building AI models to optimize user experiences, decision making, operational efficiencies, and lead the region’s AI ecosystem. 
 
-What’s most important to us is that you are respected, feel like you can be yourself and have the opportunity to do the best work of your life -- while still having a life. We offer excellent benefits, bonus programs, flexible work arrangements, a variety of career development opportunities, employee resource groups, and much more.
 
-We started with computers, but we didn’t stop there. We are helping customers move into the future with multi-cloud, AI and machine learning through the most innovative technology and services portfolio for the data era. Join us and become a part of what’s next in technology, starting today.
+As a Data Scientist, you have built a strong track record of delivering business impact in several applications. You are happy to implement a simple heuristic or a sophisticated deep learning or reinforcement learning model if it meets the business needs and the time constraints. You find satisfaction collaborating with partners and shipping changes that deliver measurable business impact. You are a constant learner, tinkerer, and you enjoy experimenting with the latest technologies to further drive impact and keep raising the bar.
 
-You can also learn more about us by reading our latest Diversity and Inclusion Report and our plan to make the world a better place by 2030 here.
-
-Application closing date: DD Month YYYY
-
-Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Dell encourages applicants of all ages. Read the full Equal Employment Opportunity Policy here.
-
-Job Id: R103069Job Function: Engineering Development",Not Applicable,Full-time,Information Technology and Engineering,"Computer Hardware, Computer Software, and Information Technology and Services"
-EMPG,Data Analyst,"Description
-
-We are looking for a passionate Data Analyst. The successful candidate will turn data into information, information into insight and insight into business decisions. Data analyst responsibilities include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop analysis and reporting capabilities. They will also monitor performance and quality control plans to identify improvements.
-Manipulate and translate big data into key insights to assist the development of relevant, impactful and measurable actions
-Extract, analyse, and utilize relevant data to assist in various projects across all relevant functions
-Build dynamic dashboards and visual aids to monitor platform activity and performance
-Identify opportunities and execute automated methods for data extraction, quantitative analysis and reporting processes
-Support the maintenance and development of the data warehouse and the local data banks
-Own tactical projects leading to the development of local capabilities and support the business strategy
-Assist product development by measuring impact and performance of implemented features
-Scan the market to identify potential factors influencing the business and measuring impact when needed
-
-Requirements
-Bachelor in Data Analytics, Engineering, Mathematics or equivalent
-Minimum 3 years experience in a highly quantitative or strategic role ; ideally in a fast growing or digital environment
-Experience in data extraction, manipulation, and interpretation is highly desirable
-Strong SQL knowledge required
-Excellent PowerPoint and Excel skills
-Prior hands-on experience of Python, R, or Scala are highly desirable “Why” obsessed – curious, ability to go beyond the “what” and uncover the drivers behind trends and online behavior
-Teamwork – work closely with the other functions and support when needed
-Tech-savvy - up to date with online and digital technologies and particularly online market tech
-Data-driven decision making – ability to problem-solve, take decisions based on data and insights
-An ambitious, energetic, bold, accountable, self-driven and a fast learner",Entry level,Full-time,Information Technology,Information Technology and Services
-Saudi German Health,Data Analyst,"We are looking for a passionate Data Analyst. The successful candidate will turn data into information, then pass it to Workforce manger to transfer information into insight and insight into business decisions with below responsibilities and qualifications include conducting full lifecycle analysis to include requirements, activities and design. Data analysts will develop reporting capabilities. he will also monitor performance and quality control plans to identify improvements.
-
-Responsibilities and qualifications
-Minimum one year of Experience in data Analytics
-interpret data, analyze results using statistical techniques and provide ongoing reports 
-Develop and implement databases, data collection systems, data analytics and other strategies that optimize statistical efficiency and quality 
-Acquire data from primary or secondary data sources and maintain databases/data systems 
-Identify, analyze, and interpret trends or patterns in complex data sets 
-Filter and “clean” data by reviewing computer reports, printouts, and performance indicators to locate and correct code problems 
-Locate and define new process improvement opportunities.   
-Strong Excel Knowledge.
-google Dashboard creation is preferred.",Entry level,Full-time,"Analyst, Administrative, and Management",Hospital & Health Care
-Dell Technologies,Data Office Data Scientist,"Data Scientist
-
-The Office of the CTO at Dell Technologies is responsible for predicting future technology trends and recommending investment strategies based on those trends. The Data Office team uses leading technologies in order to use data to predict future technology trends.
-
-You will be involved in assessing the competition, developing technology and products, and generating intellectual property. As a Data Scientist at the Data Office, you will join a global team of data scientists, developers, researchers, and technologists in researching and applying the latest ML and DL technologies, leveraging the Data power in adding innovation value to business strategic decisions.
-
-What You’ll Achieve
-
-As a Data Scientist, you will work with a cross functional global team to research, build and apply state of the art machine learning and deep learning technologies.
-
-You Will
-Perform all the phases of a data science project: business understanding, data understanding and preparation, exploratory analysis, modeling, model evaluation, communicating results and business value of a model to the product leadership and finally deploying your data product.
-Manage your activities, scope and timelines on the projects with minimum supervision.
-Work with development teams & business groups to ensure models can be implemented as part of a delivered solution replicable across many clients.
-Keep abreast of the latest developments in the field by continuous learning and proactively champion promising new methods relevant to the problems at hand.
-Have the ability to explain and present results to customers and executive stakeholders.
-
-Take the first step towards your dream career
-
-Essential Requirements
-
-Every Dell Technologies team member brings something unique to the table. Here’s what we are looking for with this role:
-Fluency with at least one scripting language such as Python and experience with Python libraries (such as numpy, pandas, etc…)
-Strong applied mathematical and statistical skills regardless of the tools.
-Demonstrated experience in implementing ML algorithms from scratch and developing an algorithm documentation to be communicated with the other data scientists.
-Breadth of skills and experience in machine learning and deep learning techniques– diverse types of data and sources, different types of learning models, diverse learning settings.
-Basic knowledge of visualization tools (Power BI, Tableau, Qlikview, etc.).
-Demonstrated ability to propose novel solutions to problems, performing experiments to show feasibility of their solutions, and working to refine the solutions into a real-world context.
-Strong analytical, written, and verbal communication skills.
-
-Desirable Requirements
-Experience with ML libraries (such as SKLearn, MADlib, etc…) and Experience with ML frameworks (such as TensorFlow, Keras, etc…)
-Proficiency in using query languages such as SQL.
-Experience with Big data tools is preferred (Hadoop, Spark, etc.).
-
-Here’s our story; now tell us yours
-
-Dell Technologies helps organizations and individuals build a brighter digital tomorrow. Our company is made up of more than 150,000 people, located in over 180 locations around the world. We’re proud to be a diverse and inclusive team and have an endless passion for our mission to drive human progress.
-
-What’s most important to us is that you are respected, feel like you can be yourself and have the opportunity to do the best work of your life -- while still having a life. We offer excellent benefits, bonus programs, flexible work arrangements, a variety of career development opportunities, employee resource groups, and much more.
-
-We started with computers, but we didn’t stop there. We are helping customers move into the future with multi-cloud, AI and machine learning through the most innovative technology and services portfolio for the data era. Join us and become a part of what’s next in technology, starting today.
-
-You can also learn more about us by reading our latest Diversity and Inclusion Report and our plan to make the world a better place by 2030 here.
-
-Application closing date: DD Month YYYY
-
-Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Dell encourages applicants of all ages. Read the full Equal Employment Opportunity Policy here.
-
-Job Id: R103002Job Function: Engineering Development",Not Applicable,Full-time,Information Technology and Engineering,"Computer Hardware, Computer Software, and Information Technology and Services"
-Teradata,Junior Data Modeler,"The Teradata Junior Data Modeler is a multi-faceted role, active as part of end-to-end project delivery.
-
-Data Modelers are responsible for the delivery of the business analysis and data design workstream for Teradata services delivery and must have a good understanding of the fine points of the data arena data warehousing, data usage and data modeling tools, in order to extract the correct requirements from our clients and correctly design solution from data perspective.
-
-Responsibilities And Duties
-
-As a Data Modeler, you are responsible for the business/data analysis and data design workstream using Teradata methodologies and processes, including activities such as but not limited to
-Data design – Third Normal Form (3NF) data modelling, data flow, data transformations
-Workstream scoping, planning and execution
-Requirements elicitation, definition and management (functional, non-functional) and associated documentation lifecycles
-Communications and stakeholder management
-Mapping business rules to logical model
-Perform recommendation for transfer of logical model to Physical model
-Basic Requirements
-3+ years’ experience in similar role
-5+ years’ experience in Data Management / Data Warehouse project implementations
-Degrees Computer Science, Engineering or other related areas is desirable
-Knowledge/Experience in Data warehousing, data modelling and data analysis
-Industry experience from one or more core industries (e.g. finance, insurance, Government, Taxation, telco) preferable Government
-Requirements documentation and information gathering techniques
-Excellent written and oral English and Arabic with experience preparing and managing documentation of senior-level client deliverables in both languages.
-Excellent communication and presentation skills
-Detail focused, resourceful, decisive, composed, problem-solver, flexible and adaptable
-Working effectively in multi-disciplinary and cross-organizational teams
-Technical Requirements
-
-Skills, Knowledge & Experience (M = Must have; S = Should have)
-Data architecture and data modeling (M)
-Data analysis (M)
-Third Normal Form Hands-on Not Star Scheme (M)
-Advanced SQL (S)
-Erwin or similar Data Modeling Tool (S)
-Data integration principles (M)
-Requirements management tools e.g. JIRA, Jama, Trello (S)
-Teradata helps businesses unlock value by turning data into their greatest asset. We’re the cloud data analytics platform company, built for a hybrid multi-cloud reality, solving the world's most complex data challenges at scale. Collectively, we endeavor to serve equal parts innovator and contributor. Because our mission isn’t just about the collection of data – it’s about revolutionizing the future of transportation to save lives, optimizing energy costs to make the planet a cleaner place, and using data to predict and identify cancer risks.",Mid-Senior level,Full-time,Information Technology,Computer Software and Information Technology and Services
-Careem,Data Analyst,"At Careem, our mission is to simplify and improve the lives of people and create an awesome organisation that inspires. With this vast mission statement, we started by improving transportation and delivery in the region, and now we are expanding into Payment and we’re launching a super-app, hosting multiple Careem and 3rd-party apps, to further simplify and improve people’s everyday life.
-We built the first multi-billion dollar tech startup in the MENAP region. The first line of code was written in Pakistan and we built on it further in Dubai and Berlin. We operate in 100+ cities across 11 countries. We joined Uber officially in early 2020. We grew and attracted top global talent and grew a culture for bold ambitions, shooting for the moon, innovation with tight constraints, and being Careem/gracious.
-The Careem Analytics team’s mission is to build and track the full lively picture for Careem businesses and experiences, uphold the experience bar, provide actionable insights, formulate problems and contribute to solving them. As part of this team, you will be a core team member fulfilling this mission. You will be working alongside the top analyst talent of the region, leveraging modern analysis and visualization tools to solve the region’s day to day problems.
 Responsibilities:
-Act as the first point of contact to answer all business data queries
-Develop effective reporting solutions by utilizing engineering best practices and various reporting tools
-Participate in continuous improvement of these reporting solutions
-Drive and support your designated business unit by converting complex data and findings into understandable tables, graphs, and written reports 
-Present appropriate analysis and commentary to technical and non-technical audience 
-Gain subject matter expertise and help define appropriate key metrics for the business unit and discover untapped areas for business improvement 
-Provide concrete data-driven insights 
-Test and communicate new features to users 
-Run regular data integrity audits 
-Devise and evaluate methods for collecting data, such as surveys, questionnaires, and opinion polls 
-Gather data about consumers, competitors, and market conditions 
+Deliver on Applied AI topics in Marketplace: multi-objective cost function for supply-demand matching, multi-modal transport matching, ETA optimizations, routing, pricing, peak pricing for supply and demand shaping, supply and demand forecasting, pooling for mobility of people, batching for mobility of things.
+Implement scalable machine learning and optimization algorithms that will be used in production on big data.
+Embark on exploratory data analysis projects to achieve better understanding of phenomena as well as to discover untapped areas of growth and optimization. 
+Answer complex analytic questions from big data sets to help Careem shape its products and services in a better way.
+Estimate impact and effort of data science projects
+Mentor junior data scientists and act as a tech lead for a business area
+Help define and track the appropriate key metrics for specific projects. 
+Design and run randomized controlled experiments, analyze the resulting data and communicate results with other teams.
+You will always challenge the status quo and continually investigate new data processing technologies and seek to ensure that we follow the industry best practices.
+
 Qualifications:
-5+ years of demonstrated experience working in an analytical role 
-3+ years of demonstrated experience with business intelligence and visualization tools creating management dashboards 
-Strong analytical skills and a passion to work with large sets of data 
-Passionate about learning new technologies and working on a product of massive scale and impact 
-Expert at writing SQL queries against large amounts of data 
-Self-starter with excellent communication and organizational skills 
-Ability to get hands-on in a complex operational environment 
-Must be process orientated and a logical thinker with good attention to detail 
-Working knowledge with reporting tools such as Tableau, MicroStrategy or Looker 
-Working knowledge in Python, R, Spark, Hive 
-Experience in ETL / ELT is a plus 
-Experience working with dimensional data, data lakes is a plus 
-Experience working with MPP databases like Redshift is a plus",Mid-Senior level,Full-time,"Information Technology, Analyst, and Product Management","Information Technology and Services, Computer Software, and Financial Services"
-Employ me Egypt,Data Engineer,"Responsibilities:
-Build and maintain ETLs in cloud environment (Azure and/or Google Cloud)
-Write Spark jobs for data transformation on structured and semi-structured datasets  
-Contribute to the design and implementation of the application databases and storage hierarchy
-Design and Implement a real-time data streaming architecture
-Write code for monitoring pipelines and data quality, as well as serving data to different consumers
-Maintain the data infrastructure in a healthy and highly available state
+5+ years experience in data mining, predictive modeling, time series analysis, machine learning, big data methodologies, transformation and cleaning of both structured and unstructured data.
+Experience in applied Deep Learning and Reinforcement Learning
+Degree in a quantitative discipline such as Physics, Statistics, Mathematics, Engineering or Computer Science 
+Strong problem solving and coding skills
+Excellent oral and written communication skills.
+Proficiency and demonstrated experience in at least 2 of the following: Python, R, SQL, Spark, Hive.
+Familiarity with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn)
 
-Basic qualifications:
-2+ years of professional experience as a Data Engineer using Python/Scala as well as Spark and SQL
-Experience with Computer Science fundamentals including data structures, algorithms, complexity analysis.
-Strong understanding of databases concepts such as Relational, NoSQL, Graph Databases, etc...
-Strong understanding of best practices in Data Warehousing and Data Modelling concepts
-Experience building high load, scalable and robust systems
-Ability to go above your functional responsibilities and help to solve problems across departments and business verticals.
+Preferred: 
+Masters/PhD degree
+Tech Lead experience
+Experience mentoring other data scientists",https://eg.linkedin.com/jobs/view/data-scientist-multiple-roles-at-careem-2706745936,Mid-Senior level,Full-time,Engineering and Information Technology,Information Technology and Services
+Data Scientist & Python Instructor,,Institute of Management Professionals,"At IMP, We are looking for Experienced # Data Scientist & Python Instructor  Data Scientist & Python Instructor [ Freelancer Position] to deliver the following topics
+• Minimum hands-on experience from 3-5 years’ experience as Data Science and Machine Learning Engineer .
+• Minimum 1-2 years’ Experience as Python Trainer.
+• Excellent in English.
+• Excellent presentation & communication, presenting technical information, technical leader ship self-confidence, dealing with complexity. if you are interested please send us your update cv to mona.atya@imanagementpro.com",https://eg.linkedin.com/jobs/view/data-scientist-python-instructor-at-institute-of-management-professionals-2738658315,,Part-time,,
+Data Scientist,,Rackspace Technology,"As a full spectrum AWS integrator, we assist hundreds of companies to realize the value, efficiency, and productivity of the cloud. We take customers on their journey to enable, operate, and innovate using cloud technologies – from migration strategy to operational excellence and immersive transformation.
 
-Preferred qualifications:
-Master's Degree in Computer Science or other related technical fields
-Previous Experience in building complex ETLs and Data Transformation pipelines
-Understanding of Cloud Native environment, its details, and ability to work in any of the 3 cloud providers
-Highly Preferred experience with real-time data streaming
-Preferred some experience with visualization tools such as PowerBI or Tableau",,Full-time,,
-Elsewedy Electric,Operations Data Analyst,"Location:
-10th of Ramadan
-Job Purpose
-To translate numbers from raw data collection into common language for use by others in the company, up to and including top management of corporation. These raw numbers come from the operation shop floor readings.
-Key Accountabilities
-Understanding business inquiries for different complexity analytics levels and develop innovative analytic solutions, aligning both data science and business clients on approach.
-Performing data preparation and data wrangling activities to support team analytics.
-Developing and performing value measurement and tests to refine approaches and influence direction of analytic product development.
-Monitoring and recording the readings from the shop floor, compare with standard figures and highlight the opportunities to other concerned departments
-Delivering key findings to members of the business though presentations and direct engagement that result in actions and improved decision making.
-Qualification & Skills:
-A Bachelor's degree in mathematics, accounting, Engineering, statistics, or a related field is generally required.
-from 0 to 2 years of Experience
-Strong proficiency with Microsoft Office suite especially Excel
-Strong analytical and detail-oriented aptitude; a high degree of accuracy is required
-Excellent communication and organizational skills
-Ability to manage time effectively, set priorities and meet deadlines
-Ability to learn and adapt to change
-Desire/ability to work successfully in a small company environment",Associate,Full-time,Sales and Business Development,Electrical/Electronic Manufacturing
-Envision Employment Solutions,Data Scientist,"Envision Employment Solutions is currently on the look for Data Scientists for one of our partners, a well-known tech company.
+If you like a challenge, you’ll love it here, because we’re solving complex business problems every day, building and promoting great technology solutions that impact our customers’ success. The best part is, we’re committed to you and your growth, both professionally and personally.
 
-Responsiblities
-You will be responsible for building, deploying, and monitoring predictive and machine learning models that leverage the company's data to improve our customers and captains experience and solve the company's core AI business problems.
-You will collaborate with business and technical stakeholders through the end-to-end data science process, starting from understanding business problems, different data sources, and setting KPIs, to collecting, cleaning, and analyzing data till model deployment.
-You will collaborate with Engineers to transform POC to production level while ensuring models scalability, observability, robustness, and accuracy.
-You are expected to be up to date with state of the art machine learning methods and techniques.
+Overview
+Our Data Scientists are experienced technologists with technical depth and breadth, along with strong interpersonal skills. In this role, you will work directly with customers and our team to help enable innovation through continuous, hands-on, deployment across technology stacks. You will work to build data science pipelines that include building models, A/B testing, natural language processing, computer vision and AR/VR visualizations.
+If you get a thrill working with cutting-edge technology and love to help solve customers’ problems, we’d love to hear from you. It’s time to rethink the possible. Are you ready?
+What You’ll Be Doing
+Confidence with manipulating complex, large and dense datasets with big data tools; must be comfortable with SQL and large database systems
+Ability to Build complex data transformation code
+Build complex SQL queries using MongoDB, Oracle, SQL Server, MariaDB, MySQL
+Excellent ability to work with structured and unstructured data sets
+Deep experience with R or Python, SQL and running ETL jobs
+Ability to apply supervised and unsupervised machine learning techniques
+Strong understanding of continuous learning and model training
+Knowledge of data labeling, categorization, and structuring techniques
+Expert ability to break down and clearly define problems
+Strong ability to communicate highly technical results to a diverse audience
+Excellent analytical and problem-solving skills
+Qualifications & Experience
+3-5 years of hands-on experience in data mining and predictive analytics with statistical modeling techniques
+3-5+ years of experience in networking, infrastructure, or database architectures
+Experience working with data in the AWS ecosystem
+Experience with advanced data science tools
+Experience applying computational algorithms and statistical methods to structured and unstructured data
+MS or PhD in Applied Mathematics, Physics, Computer Science, Statistics or related technical field
+Experience in the cyber security domain
+AWS certifications
+SQL
+Kubernetes is a plus
+Artificial Intelligence
+Predictive Analytics
+Tableau or other visualization tools
+Kafka / Confluent
+CI / CD and Cloud Native Computing (Docker, Kubernetes, Consul, Vault)
+About Rackspace Technology
 
+We are the multicloud solutions experts. We combine our expertise with the world’s leading technologies — across applications, data and security — to deliver end-to-end solutions. We have a proven record of advising customers based on their business challenges, designing solutions that scale, building and managing those solutions, and optimizing returns into the future. Named a best place to work, year after year according to Fortune, Forbes and Glassdoor, we attract and develop world-class talent. Join us on our mission to embrace technology, empower customers and deliver the future.
+
+More on Rackspace Technology
+
+Though we’re all different, Rackers thrive through our connection to a central goal: to be a valued member of a winning team on an inspiring mission. We bring our whole selves to work every day. And we embrace the notion that unique perspectives fuel innovation and enable us to best serve our customers and communities around the globe. We welcome you to apply today and want you to know that we are committed to offering equal employment opportunity without regard to age, color, disability, gender reassignment or identity or expression, genetic information, marital or civil partner status, pregnancy or maternity status, military or veteran status, nationality, ethnic or national origin, race, religion or belief, sexual orientation, or any legally protected characteristic. If you have a disability or special need that requires accommodation, please let us know.",https://eg.linkedin.com/jobs/view/data-scientist-at-rackspace-technology-2709210918,Entry level,Full-time,Engineering and Information Technology,"Information Technology and Services, Computer Software, and Financial Services"
+5G Data Scientist,,Dell Technologies,"From applied research to advanced engineering, Dell’s 5G R&D team is designing and developing ground-breaking products & solutions. You will be involved in assessing the market, developing technology and products and generating intellectual property. Your contributions will drive product architecture and implementation in support of building something from the ground up, all while working with colleagues across the globe to ensure Dell products always lead the way.
+
+We are looking for an5G Data Scientistwith knack for researching new technologies to work on 5G RAN Radio Resource Management Optimizations using Machine learning & Deep learning. Candidates should display abilities to innovate and be creative.
+
+What You’ll Achieve
+
+As a Data Scientist, you will work with a cross functional global team to research, design, build and deliver production ready xApps to be used for Radio Resource Management Optimizations.
+
+You Will
+Develop high quality, reliable and maintainable code
+Perform all the phases of a data science project: business understanding, data understanding and preparation, exploratory analysis, modeling, model evaluation, communicating results and business value of a model to the product leadership and finally deploying your data product.
+Engage with the ORAN workgroups & open-source community with a special focus on RIC and xApp implementations
+Identify new use cases and patterns to develop train models that can operate under different scenarios, near real-time to standard mode
+Take the first step towards your dream career
+
+Essential Requirements
+
+Every Dell Technologies team member brings something unique to the table. Here’s what we are looking for with this role:
+Two years’ hands on experience with AI and machine learning algorithms such as reinforcement learning, GAN, deep neural networks, supervised and unsupervised learning techniques used for clustering, classification, regression
+Fluency with at least one scripting language such as Python.
+Strong applied mathematical and statistical skills regardless of the tools.
+Understanding of data structures, data modeling and software architecture
+Strong problem-solving, critical thinking, time-management, communication, and organizational skills
+Desirable Requirements
+Networking knowledge
+Knowledge of the 3GPP LTE-Advanced and 5GNR technologies and the 3GPP specification that defines them is a plus
+Contributions to large open source projects
+MPBU
+
+Job Id: R088647Job Function: Engineering Development",https://eg.linkedin.com/jobs/view/5g-data-scientist-at-dell-technologies-2729328496,Not Applicable,Full-time,Information Technology and Engineering,"Computer Hardware, Computer Software, and Information Technology and Services"
+Senior Data Scientist,,LyRise,"LyRise's vision is to Build AI & Data Teams from top talents to work with global organizations. We understand the shortage of AI & Data talent across the globe, and we are determined to solve this problem by building a large talent network of different expertise.
+
+We are seeking a Senior Data Scientist with +5 years experience to operate in the Oil & Gas sector, below are the job requirements.
+ Location: Remote
+
+Data Scientist Minimum Requirements
+Work with Product owner throughout the product development to identify opportunities for leveraging available data and develop the digital product
+Mine and analyze data from different databases to drive optimization and improvement of product development, marketing techniques and business strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Use predictive and optimization modeling to increase and optimize customer
+experiences, revenue generation, ad targeting and other business outcomes.
+Develop A/B testing framework and test model quality.
+Coordinate with different functional teams to implement models and monitor outcomes.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+
+Qualifications for Senior Data Scientist
+Strong problem-solving skills with an emphasis on Digital product development.
+Experience using statistical computer languages (Python, SLQ, Algorithms etc.) to
+manipulate data and draw insights from large data sets.
+Experience working with and creating data models
+Knowledge of a variety of machine learning techniques (clustering, decision tree learning, artificial neural networks, etc.) and their real-world advantages/drawbacks.
+Knowledge of advanced statistical techniques and concepts (regression, properties of distributions, statistical tests and proper usage, etc.) and experience with applications.
+Excellent written and verbal communication skills for coordinating across teams.
+Oil/gas domain knowledge and experience preferred
++5 years experience",https://eg.linkedin.com/jobs/view/senior-data-scientist-at-lyrise-2730843927,,Full-time,,
+Data Scientist,,Wunderman Thompson,"Who We Are
+
+At Wunderman Thompson we exist to inspire growth for ambitious brands. Part creative agency, part consultancy and part technology company, our experts provide end-to-end capabilities at a global scale to deliver inspiration across the entire brand and customer experience.
+
+We are 20,000 strong in 90 markets around the world; our people bring together creative storytelling, diverse perspectives, inclusive thinking, and highly specialized vertical capabilities to drive growth for our clients. We offer deep expertise across the entire customer journey, including communications, commerce, consultancy, CRM, CX, data, production, and technology.
+
+The team is part of a Corporate program to execute and land global, regional and local operations in a compliant, standardized and effective manner. All this, leveraging global data and measurement programs and sophisticated Modern Marketing engines.
+
+The role is focused on ensuring the right tracking and measurement mechanism is present in all Marketing Campaigns landing in market. The core role is to advise, execute and consult the marketers and in their ongoing campaign execution through tagging, tracking and measurement implementation to ensure an accurate Return On Marketing Investment view.
+
+Tracking is an essential key area for Marketing, this role is positioned as Subject Matter Expert on Data Science enabling marketing data conversions and campaign performance insights.
+
+Delivery Competencies
+Enable Integrated and Consistent Marketing Execution from Area HQ to Subsidiaries
+Partner with Marketers to understand their campaign strategy and translate this strategy into tool instrumentation and set up requirements ifmarketer requires assistance.
+Provide Knowledge on Marketing Tools and Services
+Support marketers in using and understanding reporting capabilities to extract insights and optimize campaign performance.
+Participate in regular syncs with Analytics Leads ahead of local Marketing Governance rhythms.
+Provide governance and consultation on Spend Association; Proactively monitor and close gaps (hands-on as needed)
+Analyze and explore the key business metrics that matter most in a data-driven world – such as growth, retention, conversion and engagement.
+Skills
+Design and build Machine Learning models to solve complex business problems.
+Design and build analytical reports and their backend data model.
+Collect business requirements, analyze them and translate them into insights via analytical reports
+5+ years of hands-on experience in advanced analytics or data science roles
+Demonstrated strength in coding in Python, or R.
+Experience in Azure ML is a plus
+Experience in Azure platform is a plus
+Experienced in database technology such as SQL, Spark, Hadoop, or similar
+Strong experience in machine learning and statistical concepts
+Strong knowledge in dimensional modeling design concepts.
+Hands-on experience in dimensional modeling implementation.
+Self-motivated, agile, and driven to think out-of-the-box
+Ability to understand and translate business and product questions into data insights and implement solutions
+Fluent in English, written and spoken.
+Experience and knowledge of reporting platforms such as Microsoft Power BI
+Excellent organizational, time management and presentation skills.
+Ability to communicate effectively with peers, management, & business groups
+Excellent written and verbal communication skills
+Intermediate to advanced project management strategies and tools
+Demonstrated understanding of marketing communications vehicles, tools and execution, both online and offline
+Understanding of Marketing Operations
+Ability to articulate and evangelize within the local marketing organization(s)
+Relationship management skills collaboration and conflict resolution skills
+Reporting and Analysis
+Knowledge of Microsoft brand and products
+Understanding of Marketing Automation
+Analytical aptitude
+Desired Characteristics
+Self-starter with a proactive attitude
+Individual contributor able to work effectively across different teams
+An interest in marketing and campaign operations
+Team player – must focus on winning as a team rather than individually
+Detail-oriented – Treat the work as your own and can analyze.
+Drive for results – Be tough and persistent and know when to research vs. when to make a quick decision.
+Client service oriented – Be positive and optimistic.
+Required Experience
+Bachelor or M.Sc. Degree in Computer Science or Statistics, or Mathematics or related field.
+3-5 years of hands-on experience in building Machine Learning models using R or Pythom
+At Wunderman Thompson, we are committed to actively building a diverse, equitable and inclusive workplace where everyone feels welcomed, valued and heard, and is treated with dignity and respect. As leaders and creative partners across industries, it is our responsibility to cultivate an environment reflective of our greatest asset; our people. We believe that this commitment inspires growth and delivers equitable outcomes for everyone as well as the clients and communities we serve.
+
+Wunderman Thompson is a WPP agency.  For more information, please visit our website and follow Wunderman Thompson on our social channels via Twitter, Facebook, LinkedIn, and Instagram.
+
+We rely on legitimate interest as a legal basis for processing personal information under the GDPR for purposes of recruitment and applications for employment.",https://eg.linkedin.com/jobs/view/data-scientist-at-wunderman-thompson-2726530825,Entry level,Full-time,Engineering and Information Technology,"Marketing and Advertising, Information Technology and Services, and Internet"
+Data Scientist,,MigrationIT,"Key Result Areas
+Data analysis and insights skill
+Problem Solving
+Develop new and use existing data algorithms
+Aware of different business aspects and market functions affecting predictive algorithms
+Duties, Tasks And Responsibilities
+Work with stakeholders to identify opportunities for leveraging company data to drive business solutions.
+Mine and analyze data from databases to drive optimization and improvement of technology techniques and strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Developing predictive systems and creating efficient algorithms to improve data quality
+Identifying, evaluating, designing, and implementing statistical analyses of gathered data to create analytic metrics and tools
+Designing, building, and deploying data analysis systems for large data sets
+Creating algorithms to extract information from large data sets
+Establishing efficient, automated processes for model development, validation, implementation, and large-scale data analysis
+Developing metrics and prototypes used to drive technology decisions.
+Identifying emergent trends and opportunities for future growth and development
 Requirements
-Bachelor or Master's degree in CS, CE, ML or 2+ years of industrial experience in machine learning.
-Experience applying methods from supervised and unsupervised machine learning to real-world problems.
-Solid understanding of industrial mathematics and statistics.
-Solid understanding of best practices in feature extraction, dimensionality reduction, model validation, and classification.
-Hands on experience with SQL, Docker, Git, AWS EC2, S3, and Some ML/DL frameworks such as Tensorflow, Keras, Pytorch, XGBoost, Scikit-learn, Statsmodels, PyMC3.
-Proven track record of successful production machine learning models.
-Experience with machine learning lifecycle platforms (i.e. mlflow) is a plus.
-Knowledge of distributed storage and processing of big data is a plus (Hadoop, Spark, etc.).
-Experience in AI system design is a plus.
-Experience in Reinforcement learning is a plus.
-Envision Employment Solutions is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce. Come join us!",Entry level,Full-time,Engineering and Information Technology,"Information Technology and Services, Computer Software, and Internet"
-Envision Employment Solutions,Data Scientist,"Envision Employment Solutions is currently on the look for a Data Scientist for one of our partners, a CyberSecurity start-up company.
+Graduation: Bachelor’s in Computer Science, Statistics, Mathematics or relevant field
+Years of Experience: From 1 To 2
+Technical Knowledge: Acquaintance with using statistical computer languages and querying databases with (R, Python, SQL, MySQL etc.) to manipulate data and draw insights from large data sets
+Language: Very Good in English
+Computer Skills: Excellent in MS Office
+Communication: Internal: All Sectors
+Work Conditions: Office Work",https://eg.linkedin.com/jobs/view/data-scientist-at-migrationit-2730291648,Entry level,Full-time,Engineering and Information Technology,Nanotechnology
+Machine Learning Engineer,,TachyHealth,"We're hiring for our growth stage at TachyHealth, the leading healthcare startup transforming the payer to provider interaction using Artificial Intelligence and Data Science. Join our mission of driving the value-based healthcare in the world and making healthcare better on a scale. At TachyHealth, we innovate for better health by building enterprise-ready intelligent deep systems on a software as a service (SaaS) model.16:22
+
+Job Overview:
+We are looking for a Machine Learning (ML) Engineer to help us create artificial intelligence products.
+Machine Learning Engineer responsibilities include creating machine learning models and retraining systems. To do this job successfully, you need exceptional skills in statistics and programming.
+We are a multi-international company; we offer a competitive salary and annual promotion with a flat hierarchy.
+
+Responsibilities:
+understanding and apply computer science fundamentals, including data structures, algorithms, computability and complexity, and computer architecture
+demonstrating end-to-end understanding of applications being created
+Transforming data science prototypes and applying appropriate ML algorithms and tools.
+Solving complex problems with multi-layered data sets, as well as optimizing existing machine learning libraries and frameworks.
+Developing ML algorithms to analyze vast volumes of historical data to make predictions.
+Running tests, performing statistical analysis, and interpreting test results.
+Selecting appropriate datasets and data representation methods
+Extending existing ML libraries and frameworks
+ 
+  Skills & Qualifications:
+(MUST) Bachelor’s degree in computer science, mathematics, or related field.
+(MUST) Familiarity with Python
+(MUST) Have more than one year of experience as a machine learning engineer.
+(MUST) Familiar with deployment pipeline (e.g., Restful, Fast APIs, etc.)
+(MUST) Strong communication, teamwork skills, and remote work.
+(MUST) Fluency in English
+familiar with NLP (Embeddings, NER, Transformers,…), recommendation fields is preferred
+Familiarity with machine learning frameworks (e.g., Tensorflow, PyTorch, Keras, etc.)
+Familiarity with building ML in medical-based applications is a plus.
+Familiar with Version control systems (e.g., git CL, GitHub, GitLab)
+Experience in one or more of the following areas: recommendation systems, data mining, or other related areas
+An analytical mind with problem-solving abilities
+ Nice to have:
+·        Previous experience in containers and Dockers - Kubernetes.
+ ",https://eg.linkedin.com/jobs/view/machine-learning-engineer-at-tachyhealth-2733013508,,Full-time,,
+Experienced Data Scientist,,Ericsson,"As the tech firm that created the mobile world, and with more than 54,000 patents to our name, we’ve made it our business to make a mark. When joining our team at Ericsson you are empowered to learn, lead and perform at your best, shaping the future of technology. This is a place where you're welcomed as your own perfectly unique self, and celebrated for the skills, talent, and perspective you bring to the team. Are you in?
+
+Come, and be where it begins.
+
+Our Exciting Opportunity
+
+Our Artificial Intelligence (AI) & Analytics team is at the forefront of data products and applications for Ericsson Middle East and Africa Market Area customers. Take a look here for an overview: https://www.ericsson.com/en/ai
+
+We work with local teams, global R&D teams and AI centers of excellence over the globe to develop, test, sell and deploy Ericsson’s leading AI products and features in customers’ live networks.
+
+You will
+Be part of an innovation environment interacting with industry players, startups and aspiring entrepreneurs
+Need to show your creativity and innovative thinking by coming up with new use cases, ideas and initiatives
+Act as knowledge ambassador to the wider community delivering knowledge sharing sessions, seminars, webinars and trainings to internal and external audience
+Manipulate data to create a story then tell the world about it.
+Work closely with a forward-thinking team of data scientists, data analysts, data engineers, analytics solution architects and engagement managers to explore data, analyze trends, apply statistical analytical methods and generate reports and dashboards that communicate insights for decision makers and business leaders
+Act as a trusted consultant to advise on business process improvement and show how a change today will impact our results tomorrow using your excellent storytelling skills supported by facts from data
+To be successful in the role you must have
+4-6 years in data science related fields
+A great passion to communicate with people and tell them about AI beauty and potential
+Positive attitude to learn and grow
+Savvy about technology, data and AI
+Has a “can do” attitude in facing challenges
+Never settle mentality; curious, outspoken and polite personality
+Fluent communicator, a hardworking presenter and conversation starter
+Able to capture the big picture while paying attention to details
+Exemplary time manager
+Digital citizen; likes using digital tools in managing work
+Standout colleague with the right sense of humor
+Knowledge and side projects in machine learning including time series analysis, deep learning and explainable AI
+Understanding of data mining and database management including the use of SQL and NoSQL databases and tools
+Strong command using data analysis and visualization tools like Microsoft Excel, Tableau and Power BI
+Solid Python, R & Julia programming skills
+Hands-on experience in NLP preferably Arabic
+Hands-on experience in robotics, machine control and hardware interfaces
+Knowledge of docker and/or cloud technology is a big plus
+Knowledge of Quantum Machine Learning & Quantum Computing is a major plus
+What´s in it for you?
+
+Here at Ericsson, our culture is built on over a century of courageous decisions. With us, you will no longer be dreaming of what the future holds – you will be redefining it. You won’t develop for the status quo, but will build what replaces it. Joining us is a way to move your career in any direction you want; with hundreds of career opportunities in locations all over the world, in a place where co-creation and collaboration are embedded into the walls. You will find yourself in a speak-up environment where empathy and humanness serve as cornerstones for how we work, and where work-life balance is a priority. Welcome to an inclusive, global company where your opportunity to make an impact is endless.
+
+What happens once you apply?
+
+Read about the next steps here
+
+For your interview preparation, here are a few “Tips & Tricks” from our recruiters
+
+For your prep and reference, here is our overall Brand video and some insights about our innovations in 5G
+
+Ericsson provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, sexual orientation, marital status, pregnancy, parental status, national origin, ethnic background, age, disability, political opinion, social status, veteran status, union membership or genetics.
+
+Ericsson complies with applicable country, state and all local laws governing nondiscrimination in employment in every location across the world in which the company has facilities. In addition, Ericsson supports the UN Guiding Principles for Business and Human Rights and the United Nations Global Compact.
+
+This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, training and development.
+
+Ericsson expressly prohibits any form of workplace harassment based on race, color, religion, sex, sexual orientation, marital status, pregnancy, parental status, national origin, ethnic background, age, disability, political opinion, social status, veteran status, union membership or genetic information.
+
+Primary country and city: Egypt (EG) || || Cairo || [[mfield2]]
+
+Req ID: 532562",https://eg.linkedin.com/jobs/view/experienced-data-scientist-at-ericsson-2723805191,Not Applicable,Full-time,Engineering and Information Technology,Telecommunications
+Machine Learning Engineer,,Teradata,"Machine Learning Engineer
+Teradata, Egypt
+
+Introduction
+
+Data Science teams at Teradata deliver business insights and value to clients through big data analytics. Our data solutions integrate into engineering and decision-making processes. Additionally, we offer advisory services to our clients including use case prioritization, tool selection, training, and capability definitions.
+
+Teradata is expanding its data science team in Cairo.
+
+We are looking for Machine Learning engineers that are…
+Highly self-motivated
+Independent
+Keen on learning and continuous self-development
+Challengers of assumptions and status quo
+Job Responsibilities
+
+As a machine learning engineer, you will independently and as part of a team
+Perform all the data preparation and post-modeling phases of a data science project business understanding, data understanding and preparation, exploratory analysis, profiling the results, reporting results to internal/external stakeholders.
+Develop optimized SQL queries for large datasets.
+Follow team development processes.
+Based on the nature of the project and the available tools, quickly learn, and adapt to different technologies and tools than the ones you are used to.
+Qualifications
+Proficient in SQL
+Intermediate level in Python
+Knowledge of Spark is a plus
+Basic software engineering knowledge
+Basic NLP Knowledge
+Basic machine learning knowledge
+Excellent verbal and written communication skills
+
+
+Our Company
+
+Teradata (NYSE TDC) is the leading multi-cloud data platform company for enterprise analytics, transforming how businesses work and people live through the power of data.
+
+At Teradata, we are leading the data era. As enterprises address today’s digital economy, they are faced with new competition and consumer expectations and are turning to data to power their future. Teradata has worked with the largest companies in the world for 40+ years, bringing our experience and expertise to support global enterprises with their most demanding, mission-critical, complex, and large-scale data needs. Teradata is recognized as a leader in the cloud, data, and analytics spaces by top analyst firms, Gartner and Forrester, and Fortune Magazine as well.
+
+Our connected multi-cloud data platform for enterprise analytics, Teradata Vantage™, is an extremely scalable, secure, and resilient offering that simplifies ecosystems by connecting data and making it easier to uncover insights from across the organization…regardless of where that data resides. With Vantage, we enable companies to modernize their data management, from start to scale. Every day, millions of users benefit from our open data platform. Empowering customers and partners to develop and build how they like, we enable hundreds of business outcomes and solutions, including improving customer experience and profitability, driving operational efficiency, realizing financial transformation, or achieving operational efficiency.
+
+As the world of data grows, we are the leader in enabling the future of connected businesses, powered by data intelligence. We are committed to delivering on this vision by following sustainable business practices and with a strong focus on diversity, equity, and inclusion. We believe that only by embracing diversity of identity, thought, background, expression, and perspective can we solve today’s challenges and reimagine tomorrow’s world.",https://eg.linkedin.com/jobs/view/machine-learning-engineer-at-teradata-2735189206,Mid-Senior level,Full-time,Engineering and Information Technology,Computer Software and Information Technology and Services
+Senior Data Scientist,,Capiter,"We’re looking for highly-skilled Senior Data Scientists (Egypt based OR International Talents) who wants to join a start-up and take on the challenge of their life!
+
+Our vision is to build the world’s best company; therefore we need to build the world’s best team.
+
+Capiter is B2B E-Commerce Marketplace that serves as a digital liaison between the FMCG, wholesale, and merchants, restructuring conventional trading methods in Egypt to a digitized one; This in return provides efficiency in the whole supply chain process by using advanced technology and machine-learning models that produce high quality service to sales channels and high data validity to the supply channels with a highly optimized financial product cycling. The Tech enabler allows its merchants to order their products from the platform with an embedded financing product that allows the merchants to receive credit on their purchases.
+
+What you'll do:
+Analyze raw data, draw meaningful conclusions and generate effective
+recommendations that generate business value.
+Applying advanced analytics and machine learning to large datasets to uncover insights that helps in creating new products, improving the performance of products and automating processes.
+Use your skills to identify business challenges and translate them into quantitative models, get them solved and deployed using the appropriate solution methods.
+Conduct experiments and analyses to validate strategies.
+You will collaborate with other scientists, engineers, product managers and business stakeholders across Capiter to create and implement solutions based on scientific principles.
+
+Who You Are:
+2-3 Years of experience.
+Must be self-motivated, results-driven, and able to work with minimum supervision.
+A creative problem-solver who is passionate about digging into sophisticated problems and devising new approaches to reach results.
+You have a strong understanding of statistics, data modelling, machine learning and optimization techniques.
+You possess proven hands-on skills in sourcing, cleaning, manipulating, analyzing, visualizing and modeling of real data.
+Extensive experience about model deployment in cloud.
+Extensive experience with programming languages such as SQL, R, Python.
+
+Please feel free to spread this post among your connections...
+For apply drop your updated resume here using EASY APPLY button.",https://eg.linkedin.com/jobs/view/senior-data-scientist-at-%D9%83%D8%A7%D8%A8%D9%8A%D8%AA%D8%B1-2717632060,,Full-time,,
+Data Scientist,,Envision Employment Solutions,"Ready and hungry for a new adventure? You are definitely in the right place! We at Envision Employment Solutions are always on the look for top talents around the globe and matching them with our partners' hiring needs, to help them build and scale!
+
+Our partners offer awesome work environment, competitive salaries, full benefits, and many others.
+
+Our Hiring Process
+After filling your online application, you will receive a psychometric assessment automatically from Criteria Corp., please try to complete it within 48 hours from receiving the link.
+Our team will review your application and your psychometric assessment's results, if you fit any of the open roles we have even if it wasn't the one you applied for, one of our team members will reach out to you to schedule an HR interview.
+During the call we will go through your resume and discuss the opportunities we have for you in details. We would love to learn a little bit about you, about your work experience and your career's goal. We will also be able to answer any questions you might have.
+_________________________________________________________________________________________________
+
+Envision Employment Solutions is currently on the look for a Data Scientist for one of our partners, a CyberSecurity start-up company.
 
 Responsibilities
 Formulating, suggesting, and managing data-driven projects which are geared at furthering the business's interests.
@@ -286,304 +457,32 @@ Life Insurance
 Profit Share
 Quarterly Bonuses
 Flexible Working Hours.
-Envision Employment Solutions is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce. Come join us!",Entry level,Full-time,Engineering and Information Technology,"Information Technology and Services, Computer Software, and Internet"
-EMPG,Data Engineer,"Description
-
-We are looking for a Data Engineer to join the Big Data Engineering function at OLX Egypt & Lebanon.
-
-You will be participating in exciting projects covering the end-to-end data lifecycle – from raw data integrations with primary and third-party systems, through advanced data modelling, to state-of-the-art data visualisation and development of innovative data products.
-
-You will have the opportunity to learn how to build and work with both batch and real-time data processing pipelines. You will work in a modern cloud-based data warehousing environment alongside a team of diverse, intense and interesting co-workers. You will liaise with other departments – such as product & tech, the core business verticals, trust & safety, finance and others – to enable them to be successful.
-
-Your responsibilities
-Design, implement and support data warehousing;
-Raw data integrations with primary and third-party systems
-Data warehouse modelling for operational & application data layers
-Development in Amazon Redshift cluster
-SQL development as part of agile team workflow
-ETL design and implementation in Matillion ETL
-Real-time data pipelines and applications using serverless and managed AWS services such as Lambda, Kinesis, API Gateway, etc.
-Design and implementation of data products enabling data-driven features or business solutions
-Building data dashboards and advanced visualisations in Sisense for data cloud teams (formerly Periscope Data) with a focus on UX, simplicity and usability
-Working with other departments on data products – i.e. product & technology, marketing & growth, finance, core business, advertising and others
-Being part and contributing towards a strong team culture and ambition to be on the cutting edge of big data
-Evaluate and improve data quality by implementing test cases, alerts and data quality safeguards
-Living the team values: Simpler. Better. Faster.
-Strong desire to learn
-
+Envision Employment Solutions is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce. Come join us!",https://eg.linkedin.com/jobs/view/data-scientist-at-envision-employment-solutions-2681548758,Entry level,Part-time,Engineering and Information Technology,"Information Technology and Services, Computer Software, and Internet"
+Sr. Data Scientist,,MigrationIT,"Key Result Areas
+Data analysis and insights skill
+Problem Solving
+Develop new and use existing data algorithms
+Aware of different business aspects and market functions affecting predictive algorithms
+Duties, Tasks And Responsibilities
+Work with stakeholders to identify opportunities for leveraging company data to drive business solutions.
+Mine and analyze data from databases to drive optimization and improvement of technology techniques and strategies.
+Assess the effectiveness and accuracy of new data sources and data gathering techniques.
+Develop custom data models and algorithms to apply to data sets.
+Develop processes and tools to monitor and analyze model performance and data accuracy.
+Developing predictive systems and creating efficient algorithms to improve data quality
+Identifying, evaluating, designing, and implementing statistical analyses of gathered data to create analytic metrics and tools
+Designing, building, and deploying data analysis systems for large data sets
+Creating algorithms to extract information from large data sets
+Establishing efficient, automated processes for model development, validation, implementation, and large-scale data analysis
+Developing metrics and prototypes used to drive technology decisions.
+Identifying emergent trends and opportunities for future growth and development
 Requirements
-
-Required minimum experience (must)
-3+years Experience in data processing, analysis and problem solving with large amounts of data;
-Good SQL skills across a variety of relational data warehousing technologies especially in cloud data warehousing (e.g. Amazon Redshift, Google BigQuery, Snowflake, Vertica, etc.)
-1+ years of experience with one or more programming languages, especially Python
-Ability to communicate insights and findings to a non-technical audience
-Written and verbal proficiency in English
-Entrepreneurial spirit and ability to think creatively; highly-driven and self-motivated; strong curiosity and strive for continuous learning
-Top of class University technical degree such as computer science, engineering, math, physics
-
-Additional Experience (strong Plus)
-1+ years of experience working with customer-centric data at big data-scale, preferably in an online / e-commerce context
-Experience with modern big data ETL tools (e.g. Matillion)
-Experience with AWS data ecosystem (or other cloud providers)
-Track record in business intelligence solutions, building and scaling data warehouses and data modelling
-Tagging, Tracking and reporting with Google Analytics 360
-Knowledge of modern real-time data pipelines (e.g. serverless framework, lambda, kinesis, etc.)
-Experience with modern data visualisation platforms such as Periscope, Looker, Tableau, Google Data Studio, etc.
-Linux, bash scripting, Javascript, HTML, XML
-Docker Containers and Kubernetes",Entry level,Full-time,Information Technology,Information Technology and Services
-Levelset,Associate Data Researcher,"About Levelset
-
-Levelset has been named one of the ""Best Places to Work"" by New Orleans CityBusiness three years in a row for our mission-driven culture and commitment to internal and external growth. Backed by venture funding, we are growing rapidly and looking for new exciting team members to add their unique talents to our mission. We empower contractors to always get what they earn, and our software platform makes lien rights, payment paperwork, and compliance in the construction industry simple and stress-free, so contractors and suppliers can get paid faster, have easier access to capital, and less surprises.
-
-Levelset is venture-backed by Horizons Ventures, S3 Ventures, Altos Ventures, and Brick & Mortar Ventures. Levelset is headquartered in New Orleans, Louisiana, with offices in Austin, Texas; Cairo, Egypt; and Hyderabad, India and is 200+ employees strong.
-
-Job Description
-
-Levelset manages millions of construction records across the United States. These include entities in the construction industry, ongoing construction jobs, and payment issues on construction projects. This data is coming from a variety of sources, including publicly available information, user input data, and proprietary Levelset data. This data is our most critical asset, and powers our business applications, insights, and so much more!
-
-The Data Research Team is tasked with ensuring Data Management principles are applied to this vast collection of data. We work to grow our data reach and density, manage the existing database and incorporate additional records, and ensure the quality of the data is the gold standard in the construction industry.
-
-This entry-level position is part of the team that focuses on the management, standardization, appending, and verification of our records. The work will focus mainly on jobs and entities in the construction industry, transcribing external records into structured fields, validating entity information (websites, logos, key personnel, etc), as well as combining like records and entities. Using our internal software and tools, you will not only help manage the validity of our data, but also publish content pages based on the data management work.
-
-Responsibilities
-Data Extraction:
-We will be extracting data from thousands of documents to gather company information, construction job details, and more. This data will be entered into our database using our proprietary software platform.
-Review and Verify Existing Data:
-We will need some of our existing data points to be verified, either through general web searching, external databases, or proactive outreach. You will also work in concert with our data quality team to assist in their processes from time to time. This will include the use of our proprietary software to manage, dedupe, and append content and data to our records.
-Online Research:
-Put on your detective hat. You will be tasked with searching through various online sources and databases to find and validate firmographic information. This may include company website links, license information, key personnel and contact information, etc.
-General Data Management:
-As content is defined and data is properly sourced, you will be part of the team responsible for maintaining its storage, flow to the proper internal stakeholders, and that it is meeting Levelset’s quality standards. This will include updating firmographic information in our database through data entry, and publishing data records according to internal guidelines.
-Help Scale the Data Pipeline:
-We are going to constantly be adding in new data points to append to existing records. As we grow this data depth, we will need to continue to optimize and innovate. As an important part of this process, we will look to you for your input, thoughts, and suggestions on improving efficiencies in finding, collecting, and implementing these new sources. You will also work in concert with our Data Quality Team to provide feedback on how and where their work can help improve our data management.
-Skills + Traits to be Successful in this Position:
-Understanding of the Construction Industry: You should have a basic working knowledge of the different types of companies in the construction industry and how they relate to each other (General contractors, subcontractors, suppliers, etc.)
-Critical Thinking: A high level of problem solving ability as we identify content targets and look for the best ways to obtain them
-Self-starter: While you would be joining a team of others working on similar tasks, you will be responsible for ensuring you are hitting daily targets.
-Adaptability: We move fast at Levelset. There are going to be short term projects and work that spring up from time to time. Being able to adapt and manage your time wisely will be key.
-Curiosity: There are insights we don’t yet know that will help our users. Always question how to make things better and how a new insight might help someone within the industry we serve",Entry level,Full-time,Information Technology,"Computer Software, Internet, and Financial Services"
-Dell Technologies,5G Data Scientist,"From applied research to advanced engineering, Dell’s 5G R&D team is designing and developing ground-breaking products & solutions. You will be involved in assessing the market, developing technology and products and generating intellectual property. Your contributions will drive product architecture and implementation in support of building something from the ground up, all while working with colleagues across the globe to ensure Dell products always lead the way.
-
-We are looking for an5G Data Scientistwith knack for researching new technologies to work on 5G RAN Radio Resource Management Optimizations using Machine learning & Deep learning. Candidates should display abilities to innovate and be creative.
-
-What You’ll Achieve
-
-As a Data Scientist, you will work with a cross functional global team to research, design, build and deliver production ready xApps to be used for Radio Resource Management Optimizations.
-
-You Will
-Develop high quality, reliable and maintainable code
-Perform all the phases of a data science project: business understanding, data understanding and preparation, exploratory analysis, modeling, model evaluation, communicating results and business value of a model to the product leadership and finally deploying your data product.
-Engage with the ORAN workgroups & open-source community with a special focus on RIC and xApp implementations
-Identify new use cases and patterns to develop train models that can operate under different scenarios, near real-time to standard mode
-Take the first step towards your dream career
-
-Essential Requirements
-
-Every Dell Technologies team member brings something unique to the table. Here’s what we are looking for with this role:
-Two years’ hands on experience with AI and machine learning algorithms such as reinforcement learning, GAN, deep neural networks, supervised and unsupervised learning techniques used for clustering, classification, regression
-Fluency with at least one scripting language such as Python.
-Strong applied mathematical and statistical skills regardless of the tools.
-Understanding of data structures, data modeling and software architecture
-Strong problem-solving, critical thinking, time-management, communication, and organizational skills
-
-Desirable Requirements
-Networking knowledge
-Knowledge of the 3GPP LTE-Advanced and 5GNR technologies and the 3GPP specification that defines them is a plus
-Contributions to large open source projects
-
-MPBU
-
-Job Id: R088647Job Function: Engineering Development",Not Applicable,Full-time,Information Technology and Engineering,"Computer Hardware, Computer Software, and Information Technology and Services"
-Dell Technologies,Insights Data Engineer,"Data Engineer
-
-The Office of the CTO at Dell Technologies is responsible for predicting future technology trends and recommending investment strategies based on those trends. The Data Office team uses leading technologies in order to use data to predict future technology trends.
-
-You will be involved in assessing the competition, developing technology and products, and generating intellectual property. As a Data Engineer inCairo, Egypt, you will join a global team of data scientists, developers, researchers, and technologists in researching and applying the latest ML and DL technologies, leveraging the Data power in adding innovation value to business strategic decisions.
-
-What You’ll Achieve
-
-As a Data Engineer, you will work with a cross-functional global team and will be responsible for expanding and optimizing our data and data pipeline architecture, as well as optimizing data flow and collection for cross-functional teams.
-
-You Will
-Create and maintain optimal data pipeline architecture
-Identify, design, and implement internal process improvements: automating manual processes, optimizing data delivery, re-designing infrastructure for greater scalability, etc.
-Build the infrastructure required for optimal extraction, transformation, and loading of data from a wide variety of data sources using SQL and Cloud ‘big data’ technologies.
-Work with stakeholders including the Executive, Product, Data, and Design teams to assist with data-related technical issues and support their data infrastructure needs.
-Work with data and analytics experts to strive for greater functionality in our data systems.
-Build processes supporting data transformation, data structures, metadata, dependency, and workload management.
-
-Take the first step towards your dream career
-
-Essential Requirements
-
-Every Dell Technologies team member brings something unique to the table. Here’s what we are looking for with this role:
-Experience with building and optimizing ‘big data’ data pipelines and architectures, as well as big data tools: Hadoop, Spark, Kafka, etc.
-Proficiency in relational SQL and NoSQL databases, including Postgres and Cassandra.
-Experience with data pipeline and workflow management tools: Azkaban, Luigi, Airflow, etc.
-Proficient in object-oriented/object function scripting languages: Python, Java, C++, Scala, etc.
-Strong analytic skills related to working with unstructured datasets.
-Familiarity with graph analytics and graph databases/technology as well as basic ML knowledge and ability to interact with Data Science team
-
-Desirable Requirements
-Experience with cloud services: EC2, EMR, RDS, Redshift
-Experience with stream-processing systems: Storm, Spark-Streaming, etc.
-
-Here’s our story; now tell us yours
-
-Dell Technologies helps organizations and individuals build a brighter digital tomorrow. Our company is made up of more than 150,000 people, located in over 180 locations around the world. We’re proud to be a diverse and inclusive team and have an endless passion for our mission to drive human progress.
-
-What’s most important to us is that you are respected, feel like you can be yourself and have the opportunity to do the best work of your life -- while still having a life. We offer excellent benefits, bonus programs, flexible work arrangements, a variety of career development opportunities, employee resource groups, and much more.
-
-We started with computers, but we didn’t stop there. We are helping customers move into the future with multi-cloud, AI and machine learning through the most innovative technology and services portfolio for the data era. Join us and become a part of what’s next in technology, starting today.
-
-You can also learn more about us by reading our latest Diversity and Inclusion Report and our plan to make the world a better place by 2030 here.
-
-Application closing date: DD Month YYYY
-
-Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Dell encourages applicants of all ages. Read the full Equal Employment Opportunity Policy here.
-
-Job Id: R103065",Not Applicable,Full-time,Information Technology,"Computer Hardware, Computer Software, and Information Technology and Services"
-Paymob,Data Engineer,"Job Description:
-
-
-
-• Communicate the data needs of data scientists and other teams and come up with efficient, GDPR compliant ETL processe
-s.
-• Support other teams by providing guidance on data usage, processing and how they can best leverage the platf
-orm
-• Build scalable data pipelines to ingest data from a variety of data sources (Relational DBs and Data Lakes), identify critical data elements and define data quality ru
-les.
-• Leverage Spark and Kafka knowledge to design and develop capabilities to improve change data capture and real-time capabilities of the pipe
-line.
-• Provide insights on areas of improvements including data governance, best practices, large scale proc
-essing
-• Support the bug fixing and performance analysis and data validation and quality along the data pi
-
-peline.
-
-Req
-uirement:
-• 3+ years of experience as software engineer, with strong skills in at least one programming language is mandatory, preferably Scala or Java
-or Python
-• 1+ year of experience with Spark on Hado
-op, EMR etc
-• Experience working with real time data processing using Kafka, Spark Streaming or simila
-r technology
-• Experience with distributed systems and design/implementation for reliability, availability, scalability an
-d performance
-• Proven experience with AWS technologies like S3, EMR, Clou
-d information.
-• Creative and innovative approach to
-problem-solving
-• Experience with Kubernet
-es is a big plus",,Full-time,,
-Microsoft,Senior Applied Researcher,"Microsoft Clarity aspires to be the leading behavioral analytics tool for the web. We offer a rich intuitive design, deep user insights, as well as seamless and smart ways site owners can delight their visitors. We pride ourselves on our team culture, can-do attitude and startup like environment. We also work at various levels of the stack, building a world class service with focus on resilience and reliability.
-
-We are looking for a Senior Data Scientist to help us deliver the next generation data-driven features across a slew of specialized domains. Such features are key for our customers to make informed and accurate decisions, to take their experience and business to the next level. Successful candidates should have a strong background in state-of-the-art machine learning techniques. They should also have an established track record delivering practical machine learning based solutions, with consistent and lasting product value. The candidate is required to lead teams and direct the work of others in this domain, as well as facilitate cross team / cross site collaboration.
-
-Responsibilities
-Understand product value / direction and propose data-driven enhancements / features to the system
-Collaborate with stakeholders to design and deliver business value through machine learning driven features
-Collaborate with peers to influence product direction across multiple teams
-Attract, groom and grow junior data-science / machine-learning based talent
-Champion machine learning excellence in the wider organization
-
-Qualifications
-Master’s degree or PhD with a data science focus
-10+ years of industry experience
-Strong machine learning foundation
-Practical knowledge in state-of-the-art machine learning techniques
-Demonstrable track record delivering robust data driven product features
-Demonstrable track record leading teams to deliver success
-Strong hands-on foundation (go-doer can roll-up their sleeves, get dirty and lead by example)
-
-Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements.
-
-Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",Not Applicable,Full-time,"Research, Analyst, and Information Technology","Computer Hardware, Computer Software, and Information Technology and Services"
-Gemography,Data Engineer (Remote),"About Gemography
-Join Gemography and work with top tech startups and engineering teams from New York, LA, San Francisco and Paris on large-scale applications and systems. It's long term, remote and comes with indefinite period employment contract.
-
-You will work on
-Take ownership and responsibility of data produced by the data pipelines.
-Maintain and update ETL data pipelines as well as create new ones.
-Document, identify and automate common data and pipeline operations.
-Participate in standups/meetings and operate in a team environment with agile methodologies.
-Monitor the status of data pipelines and act correspondingly.
-Ensure data produced has the right format/quality and that associated metadata is properly documented.
-
-What we are looking for
-Experience with data engineering, preferably in Python.
-You’re a fast learner, can contribute from day one as well as integrate and apply new concepts quickly.
-You take pride in what you create and passionate about getting the details right, even when no one's looking.
-You are able to weigh tradeoffs, articulate complex ideas, and have precision about what you know and don't know.
-You enjoy staying on top of tech trends and hacking new things.
-Proficiency in written and spoken English.
-
-Bonus points if you have
-Hands-on experience in SQL tuning, schema design or analytical programming.
-Familiar with Docker, Kubernetes, Airflow or similar technologies.
-A graduate degree in Computer Science or similar discipline.
-
-Benefits & Perks
-Competitive salaries and performance bonuses.
-Your own Spotify Premium and Netflix accounts.
-24-days paid time-off (+ public holidays).
-Health insurance & pension;
-
-Important
-Resume/cover letter are optional.
-The job role is fully remote (anywhere in Egypt).
-It's long term and comes with an indefinite period employment contract.",,Full-time,,
-Envision Employment Solutions,Machine Learning Engineer,"Envision Employment Solutions is currently hiring Machine Learning Engineers for one of the partners in Egypt.
-
-Job Summary
-
-We are looking for a Machine Learning (ML) Engineer to help us create artificial intelligence products. Machine Learning Engineer responsibilities include creating machine learning models and retraining systems. To do this job successfully, you need exceptional skills in statistics and programming. If you also have knowledge of data science and software engineering, we’d like to meet you. Your ultimate goal will be to shape and build efficient self-learning applications.
-
-Responsibilities
-Study and transform data science prototypes
-Design machine learning systems
-Research and implement appropriate ML algorithms and tools
-Develop machine learning applications according to requirements
-Select appropriate datasets and data representation methods
-Run machine learning tests and experiments
-Perform statistical analysis and fine-tuning using test results
-Train and retrain systems when necessary
-Extend existing ML libraries and frameworks
-Keep abreast of developments in the field
-
-Requirements
-BSc in Computer Science, Mathematics or similar field; Master’s degree is a plus
-Proven experience as a Machine Learning Engineer or similar role
-Understanding of data structures, data modeling and software architecture
-Deep knowledge of math, probability, statistics and algorithms
-Ability to write robust code in Python, Java and R
-Familiarity with machine learning frameworks (like Keras or PyTorch) and libraries (like scikit-learn)
-Excellent communication skills
-Ability to work in a team
-Outstanding analytical and problem-solving skills
-Envision Employment Solutions is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce. Come join us!",Entry level,Full-time,Engineering and Information Technology,"Information Technology and Services, Computer Software, and Internet"
-Envision Employment Solutions,AI Researcher,"Envision Employment Solutions is currently on the look for AI Researchers for one of our partners.
-
-Job Summary
-
-AI researchers explore new and technologies and global solutions for solving problems in different domains using different technologies and document the research results in the requested format. Ai researchers help the AI team members across the board in different projects implementation aspects, capacity building initiatives and International activities.
-
-Responsibilities
-Perform research on artificial intelligence technologies and how they can meet the needs of different sectors such as healthcare, agriculture, manufacturing, decision-making support, among others.
-Correspond with potential business partners for the advancement of projects.
-Prepare studies and reports with all the necessary data/visualizations.
-Work across the board with other members of the team and provide assistance if need be
-
-Requirements
-Solid understanding of AI and its most common techniques (technical background preferred)
-Research skills: ability to scrape the web and provide a comprehensive, detailed, and accurate report on a subject
-Reading in large volumes, including scientific papers, and summarize them in condensed format
-Proficiency in Excel, Word, PowerPoint
-Team player and willingness to learn on the job
-Envision Employment Solutions is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce. Come join us!",Associate,Full-time,Engineering and Information Technology,"Information Technology and Services, Computer Software, and Internet"
-Careem,Senior Data Scientist,"At Careem, our mission is to simplify and improve the lives of people and create an awesome organisation that inspires. With this vast mission statement, we started by improving the mobility of people, the mobility of goods, then the mobility of money. We are transforming into a super-app hosting multiple Careem and 3rd-party apps to simplify life and amplify living.
+Graduation: Bachelor’s in Computer Science, Statistics, Mathematics or relevant field
+Years of Experience: From 4 to 5
+Technical Knowledge: Acquaintance with using statistical computer languages and querying databases with (R, Python, SQL, MySQL etc.) to manipulate data and draw insights from large data sets
+Language: Very Good in English
+Computer Skills: Excellent in MS Office",https://eg.linkedin.com/jobs/view/sr-data-scientist-at-migrationit-2738705882,Mid-Senior level,Full-time,Engineering and Information Technology,Nanotechnology
+Senior Data Scientist,,Careem,"At Careem, our mission is to simplify and improve the lives of people and create an awesome organisation that inspires. With this vast mission statement, we started by improving the mobility of people, the mobility of goods, then the mobility of money. We are transforming into a super-app hosting multiple Careem and 3rd-party apps to simplify life and amplify living.
 
 We built the first multi-billion dollar tech startup in the MENAP region. We operate in 100+ cities across 11 countries. We joined Uber officially in early 2020. We grew and attracted top global talent and grew a culture that is known for bold ambitions, shooting for the moon, innovating with tight constraints, and being Careem/gracious.
 
@@ -612,4 +511,777 @@ Familiarity with machine learning frameworks (like Keras or PyTorch) and librari
 Preferred
 Masters/PhD degree
 Tech Lead experience
-Experience mentoring other data scientists",Associate,Full-time,Engineering and Information Technology,Internet and Information Technology and Services
+Experience mentoring other data scientists",https://eg.linkedin.com/jobs/view/senior-data-scientist-at-careem-2714272123,Associate,Full-time,Engineering and Information Technology,Internet and Information Technology and Services
+Data Scientist,,Envision Employment Solutions,"Ready and hungry for a new adventure? You are definitely in the right place! We at Envision Employment Solutions are always on the look for top talents around the globe and matching them with our partners' hiring needs, to help them build and scale!
+
+Our partners offer awesome work environment, competitive salaries, full benefits, and many others.
+
+Our Hiring Process
+After filling your online application, you will receive a psychometric assessment automatically from Criteria Corp., please try to complete it within 48 hours from receiving the link.
+Our team will review your application and your psychometric assessment's results, if you fit any of the open roles we have even if it wasn't the one you applied for, one of our team members will reach out to you to schedule an HR interview.
+During the call we will go through your resume and discuss the opportunities we have for you in details. We would love to learn a little bit about you, about your work experience and your career's goal. We will also be able to answer any questions you might have.
+_________________________________________________________________________________________________
+
+Envision Employment Solutions is currently on the look for Data Scientists for one of our partners, a well-known tech company.
+
+Job Summary
+
+In this role, you will have the opportunity to drive our user behavior and organize the shape of supply to cater to the right demand. This role requires you to mine and analyze data from company databases to drive optimization, implement smart business strategies and improve product development and marketing techniques. The role is inherently cross-functional: You will work closely with a high-energy team consisting of software engineering, data analytics, user experience, device marketing, customer service, and executive team members.
+
+Responsiblities
+You will be responsible for building, deploying, and monitoring predictive and machine learning models that leverage the company's data to improve our customers and captains experience and solve the company's core AI business problems.
+You will collaborate with business and technical stakeholders through the end-to-end data science process, starting from understanding business problems, different data sources, and setting KPIs, to collecting, cleaning, and analyzing data till model deployment.
+You will collaborate with Engineers to transform POC to production level while ensuring models scalability, observability, robustness, and accuracy.
+You are expected to be up to date with state-of-the-art machine learning methods and techniques.
+
+Requirements
+Bachelor or master’s degree in CS, CE, ML, or 2+ years of industrial experience in machine learning.
+Experience applying methods from supervised and unsupervised machine learning to real-world problems.
+Solid understanding of industrial mathematics and statistics.
+Solid understanding of best practices in feature extraction, dimensionality reduction, model validation, and classification.
+Hands on experience with SQL, Docker, Git, AWS EC2, S3, and Some ML/DL frameworks such as Tensorflow, Keras, Pytorch, XGBoost, Scikit-learn, Statsmodels, PyMC3.
+Proven track record of successful production machine learning models.
+Experience with machine learning lifecycle platforms (i.e., mlflow) is a plus.
+Knowledge of distributed storage and processing of big data is a plus (Hadoop, Spark, etc.).
+Experience in AI system design is a plus.
+Experience in Reinforcement learning is a plus.
+Envision Employment Solutions is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce. Come join us!",https://eg.linkedin.com/jobs/view/data-scientist-at-envision-employment-solutions-2681547864,Entry level,Full-time,Engineering and Information Technology,"Information Technology and Services, Computer Software, and Internet"
+Consumer Credit Data Scientist - Jumia Pay (Full-Time),,Jumia Group,"Jumia is a leading e-commerce platform in Africa. It is built around a marketplace, Jumia Logistics, and JumiaPay. The marketplace helps millions of consumers and sellers to connect and transact. Jumia Logistics enables the delivery of millions of packages through our network of local partners. JumiaPay facilitates the payments of online transactions for Jumia's ecosystem.
+
+With over 1 billion people and 500 million internet users in Africa, Jumia believes that e-commerce is making people's lives easier by helping them shop and pay for millions of products at the best prices wherever they live. E-commerce is also creating new opportunities for SMEs to grow, and job opportunities for a new generation to thrive.
+
+With over 5,000 employees in more than 10 countries in Africa, Jumia is led by top talented leaders offering a great mix of local and international talents and is backed by very high-profile shareholders. Jumia is committed to creating sustainable impact in Africa. Jumia offers unique opportunities in a vibrant and booming environment, creating new jobs, new skills, and empowering a new generation.
+
+Main Responsibilities
+
+JumiaPay, the payments and fintech arm of Jumia Group, is interested in entering the Buy Now Pay Later (BNPL) space and start offering consumer credit solutions to the JumiaPay users.
+
+Your role would would be to design and develop state of the art algorithms for tackling issues such as:
+Credit Default Risk Prediction
+Consumer Scoring
+Besides, You’ll Be In Charge Of
+D esign experiments, test hypotheses, and build models utilizing the traditional datasets and graph data
+A pply advanced statistical and predictive modeling techniques to build, maintain, and improve on multiple real-time decision systems
+I dentify what data is available and relevant, including internal and external data sources, leveraging new data collection processes such as geo-location or social media, or device information
+U tilize patterns and variations in the volume, speed and other characteristics of data for predictive analysis
+Define the preprocessing or feature engineering to be done on a given dataset, data augmentation pipelines, training models and tuning their hyperparameters, analyzing the errors of the model and designing strategies to overcome them
+S electing features, building and optimizing classifiers using machine learning technique
+E xtending company’s data with third party sources of information when needed
+C reating automated anomaly detection systems and constant tracking of its performance
+Working closely with mahagement and the product team to ensure the Datascience team needs are being met by the product
+Required Skills & Qualifications
+P revious experience in a consumer facing fintech focused on consumer credit would be a great plus
+B achelors in mathematics, statistics or computer science or a related field; Masters or PhD degree preferred
+3+ years of relevant quantitative and qualitative research and analytics experience
+E xtensive knowledge of statistical techniques
+A bility to come up with solutions to loosely defined business problems by leveraging pattern detection over potentially large datasets
+P roficient in machine learning (SVM, boosting, random forest) and graph models
+P roficiency in statistical analysis, quantitative analytics, forecasting/predictive analytics, multivariate testing, and optimization algorithms.
+E xperience with open source tools for machine learning technology such as scikit-learn, pandas, etc
+S trong programming skills (Hadoop MapReduce or other big data frameworks, Python), statistical modeling (R, Python, SAS), query languages such as SQL, Hive
+F amiliarity with basic principles of distributed computing and distributed databases
+D emonstrable ability to quickly understand new concepts - all the way down to the theorems - and to come out with original solutions to mathematical issues
+We Offer
+A unique opportunity of having strong impact in building the African e-commerce sector
+The opportunity to become part of a highly professional and dynamic team
+An unparalleled personal and professional growth as our longer-term objective is to train the next generation of leaders",https://eg.linkedin.com/jobs/view/consumer-credit-data-scientist-jumia-pay-full-time-at-jumia-group-2705167951,Entry level,Full-time,Engineering and Information Technology,"Information Technology and Services, Internet, and Financial Services"
+Senior Data Scientist,,Eksab,"The Senior Data Scientist will be responsible for leading our analytics and data science department. This position requires great attention to detail and an obsession for data analytics, numbers and tools like PowerBI and Tableau.
+
+The Senior Data Scientist will report directly to the CEO and CTO.
+
+As a Senior Data Scientist, you will be responsible for collecting, organizing, interpreting and deriving insights from vast amounts of data. Your work will inform key business decisions across the executive, technology, and marketing departments.
+
+You will be working in a fast-paced environment where every day brings unique new challenges and new opportunities. You should have excellent business and communication skills and be able to work with all levels of the organization. This position will involve regular communication and engagement with the executive team as well as other global advisors and stakeholders. Cross-team coordination, project management, and executive level presentation skills will be key to success. We’re looking for kick-ass people who can execute at an extremely high pace.
+
+About Eksab
+
+Eksab operates at the intersection of sports and technology. Our products are built for extremely passionate fans who are looking for exciting and cutting-edge tech to enable them to engage with their favorite teams! We are currently serving hundreds of thousands of passionate users at www.yallaeksab.com and enjoying explosive growth. We are very well funded by USA based VCs, and aspire to become the market leader for sports fans in the region. Our founders have been recently featured in Forbes Magazine and other startup related publications. Visit our portal to learn more about us, and maybe have fun playing one of our competitions.
+
+Responsibilities
+Own the Data-Analytics division from A-Z.
+Use data-analytics tools to better understand and optimize digital marketing campaigns and work closely with the rest of the team to ensure rapid optimization.
+In collaboration with the executive team, develop growth strategies , campaigns, and experiments for user acquisition, retention and monetization.
+Own Eksab’s growth marketing efforts and make it your professional life’s mission to increase Eksab’s retention, growth, and monetization of active users at the lowest possible cost.
+Qualifications And Experience
+4+ years of experience as a Data Scientist in a high-growth tech company.
+Highly organized with ability to manage changing priorities with excellent operation and business judgement.
+Experience working with marketing and analytics tools and platforms such as Facebook Ads Manager, Google Ads Manager, Mixpanel, Amplitude, Segment, PowerBI, etc.
+Excellent written and verbal communication skills, both remotely and face to face.
+A Bachelors of Science, Engineering, Mathematics, Physics or Statistics required. PhD and software development experience is a bonus.
+We Offer
+Salary range 20,000 - 30,000 EGP
+Top tier benefits and equity shares
+Flat Agile environment where work is meaningful and fun
+Latest gear and tools
+Huge room for career growth
+Flexible working hours & work from home policy",https://eg.linkedin.com/jobs/view/senior-data-scientist-at-eksab-2718148288,Director,Full-time,Engineering,Computer Software
+Senior Data Scientist,,RSA Security,"At RSA we hold Digital Transformation at the core of our strategy and we’re taking leap steps towards this journey, as a Data scientist at RSA Digital Powerhouse you’ll get a tremendous opportunity to be part of such thrilling journey and your role is to ensure it’s a data driven one. In addition you’ll have to create a story line around the data in order to provide to data driven insights that empower business change and bring awareness to new business opportunities.
+
+You Will
+Execute all the phases of a data science project including business problem understanding, data collection, exploratory analysis, and modeling.
+Convert complex results from your projects to a format that will be easy to comprehend by business stakeholders “A picture is worth a thousand words”.
+Demonstrate a solid understanding of the company’s industry and what business problems are important to solve for the business.
+Being able to determine new ways the business should be leveraging its data.
+Essential Requirements
+Bachelor’s degree in Computer Science or relevant field.
+3+ years of experience as a Data Scientist or related fields.
+Hands on experience with at least one of the following: programming languages Python, Java, or R.
+Hands on experience with SQL, NoSQL
+Hands on experience d3.js, Matplottlib, Tableau or PowerBI
+Familiarity with machine learning frameworks such as TensorFlow, Keras, etc... and techniques such as supervised machine learning, decision trees, logistic regression etc...
+Familiarity with Big Data technologies Hadoop, Apache Spark, etc.…
+Excellent Communication skills and story teller, clearly and fluently translate technical findings to a non-technical team.
+Application closing date: 01 September 2021
+
+About RSA
+
+RSA oﬀers mission-driven security solutions that provide organizations with a uniﬁed approach to managing digital risk that hinges on integrated visibility, automated insights and coordinated actions. RSA solutions are designed to eﬀectively detect and respond to advanced attacks; manage user access control; and reduce business risk, fraud and cybercrime. RSA protects millions of users around the world and helps more than 90 percent of the Fortune 500 companies, and every branch of the U.S. federal government, thrive and continuously adapt to transformational change. For more information, go to rsa.com.
+
+RSA is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at RSA are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. RSA will not tolerate discrimination or harassment based on any of these characteristics. RSA encourages applicants of all ages.",https://eg.linkedin.com/jobs/view/senior-data-scientist-at-rsa-security-2690598983,Associate,Full-time,Engineering and Information Technology,"Information Technology and Services, Computer Software, and Financial Services"
+Senior Data Scientist,,Envision Employment Solutions,"Ready and hungry for a new adventure? You are definitely in the right place! We at Envision Employment Solutions are always on the look for top talents around the globe and matching them with our partners' hiring needs, to help them build and scale!
+
+Our partners offer awesome work environment, competitive salaries, full benefits, and many others.
+
+Our Hiring Process
+After filling your online application, you will receive a psychometric assessment automatically from Criteria Corp., please try to complete it within 48 hours from receiving the link.
+Our team will review your application and your psychometric assessment's results, if you fit any of the open roles we have even if it wasn't the one you applied for, one of our team members will reach out to you to schedule an HR interview.
+During the call we will go through your resume and discuss the opportunities we have for you in details. We would love to learn a little bit about you, about your work experience and your career's goal. We will also be able to answer any questions you might have.
+_________________________________________________________________________________________________
+
+Envision Employment Solutions is currently on the look for Senior Data Scientists for one of our partners, a well-known tech company.
+
+Job Summary
+
+We are looking for a driven individual to work in the organization’s Central Analytics Planning team, driving growth across the supply and demand aspects of the business. In this role, you will have the opportunity to drive our user behavior and organize the shape of supply to cater to the right demand. This role requires you to mine and analyze data from company databases to drive optimization, implement smart business strategies and improve product development and marketing techniques. The role is inherently cross-functional: You will work closely with a high-energy team consisting of software engineering, data analytics, user experience, device marketing, customer service, and executive team members.
+
+Responsiblities
+You will be responsible for building, deploying, and monitoring predictive and machine learning models that leverage the company’s data to improve our customers and captains experience and solve the company’s core AI business problems.
+You will collaborate with business and technical stakeholders through the end-to-end data science process, starting from understanding business problems, different data sources, and setting KPIs, to collecting, cleaning, and analyzing data till model deployment.
+You will collaborate with Engineers to transform POC to production level while ensuring models scalability, observability, robustness, and accuracy.
+You are expected to be up to date with state-of-the-art machine learning methods and techniques.
+You will be responsible for managing and mentoring junior data scientists
+As a senior engineer, you are expected to help grow other engineers by mentoring and developing learning opportunities
+
+Requirements
+Bachelor or master’s degree in CS, CE, ML, or 5+ years of industrial experience in machine learning.
+Experience applying supervised and unsupervised, and reinforcement learning methods to real-world problems.
+Solid understanding of industrial mathematics and statistics.
+Solid understanding of best practices in feature extraction, dimensionality reduction, model validation, and classification.
+Hands on experience with SQL, Docker, Git, AWS EC2, S3, ML/DL frameworks such as Tensorflow, Keras, Pytorch, XGBoost, Scikit-learn, Statsmodels, PyMC3
+Proven track record of managing successful production machine learning systems.
+Experience with machine learning lifecycle platforms (i.e., mlflow).
+Knowledge of distributed storage and processing of big data (Hadoop, Spark, etc.).
+Experience in Reinforcement learning is a plus.
+Envision Employment Solutions is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce. Come join us!",https://eg.linkedin.com/jobs/view/senior-data-scientist-at-envision-employment-solutions-2681549648,Associate,Full-time,Engineering and Information Technology,"Information Technology and Services, Computer Software, and Internet"
+Software Engineer - Advanced,,Siemens,"Overview
+
+As a DevOps Engineer you will have key responsibilities in planning, implementing, and operating DevOps infrastructure and processes in a cloud environment. You will also help application development teams and serve as a conduit to ensure that best practices in the areas of security, continuous integration and continuous delivery are met across organizations. You will be a subject matter expert on DevOps topics, and help define process and best practices accordingly.
+
+Responsibilities
+
+Develop and improve the tools and technologies that make up a continuous delivery software development pipeline.
+Support key pieces of DevOps cloud infrastructure and maintain a high level of availability.
+Consult directly with application teams and senior members of the team to help achieve success - specifically in areas of CI/CD, Containers, and cloud deployments. This might mean providing troubleshooting experience across a full stack or developing automation to keep the runtime environment updated with zero downtime.
+Scale systems in a sustainable fashion through automation and evolve systems by pushing for changes that improve reliability and velocity.
+Continuing to learn and develop skills in a rapidly developing ecosystem.
+
+Requirements
+
+Troubleshooting skills across network, application, caching, queuing, load-balancing, storage and distributed services layers.
+Experience implementing Continuous Integration / Delivery systems of large scale multi-language software development.
+Understanding of developing and releasing software into production using the AWS stack.
+Understanding of Containers and Kubernetes.
+Experience programming in Python, Go, and/or Bash.
+
+And at least one of the below:
+
+3yrs Linux system administration experience, including troubleshooting, support, mentor-ship / training, and oversight.
+1yrs with networking and network/system security, including firewalls, VPN, routing, switching, load balancers, monitoring, security and DNS.
+1yrs experience running large scale online systems built on AWS or similar cloud providers.
+Experience with administration of Kubernetes clusters in production.
+Experience with Infrastructure as Code, utilizing tools such as Terraform and Ansible.
+
+You'd be a great fit if...
+
+You're excited to be part of a core group that defines standards for thousands of developers.
+You enjoy figuring out how to make implementing and meeting those standards easy for the developers.
+You're motivated by both open-ended challenges and practical it-just-needs-to-get-done code: whatever has the most impact.
+You're eager to learn from your teammates and have something to teach them as well.
+You may have a particular area of expertise but think of yourself as a generalist who likes to challenge yourself in new areas (and wants to work with a team that encourages you to do so).
+
+Location Preference
+
+Pune, India
+
+Organization: Digital Industries
+
+Company: Siemens Industry Software (India) Private Limited
+
+Experience Level: Experienced Professional
+
+Job Type: Full-time",https://eg.linkedin.com/jobs/view/software-engineer-advanced-at-siemens-2737306712,Mid-Senior level,Full-time,Research,Electrical/Electronic Manufacturing
+Big Data Engineer,,Top Business Group,"We are looking for a Data Engineer who can find strategic solutions to tough problems. As a Data Engineer, you will create and manage our data infrastructure and tools, including collecting, storing, processing, and analyzing a range of data and data streams. You know how to work quickly and accurately, using the best solutions to analyze mass data sets, and you know how to get results. You will also make this data easily accessible across the company and usable in multiple departments
+
+Roles and Responsibilities:
+
+•Collect and process raw data at scale for a variety of projects and initiatives.
+•Design and develop data applications using selected tools and frameworks as required
+•Read, extract, transform, stage and load data to selected tools and frameworks as required and requested.
+•Perform tasks such as writing scripts, calling APIs, write SQL queries, etc.
+•Process unstructured data into a form suitable for analysis.
+•Analyze processed data.
+•Monitoring data performance and modifying infrastructure as needed.
+•Define data retention policies.
+
+Requirements:
+•4 to 6 years of recent experience in data engineering.
+•A solid track record of data management
+•Programming experience, ideally in Python, Spark, Kafka and a willingness to learn new programming languages to meet goals and objectives.
+•Experience in JavaScript or other programming language is a plus.
+•Experience in cloud and scalable (AWS) systems are a plus
+•Knowledge of data cleaning, wrangling, visualization and reporting
+•Knowledge of machine learning is a plus.
+•Experience processing large amounts of structured and unstructured data, including integrating data from multiple sources.",https://eg.linkedin.com/jobs/view/big-data-engineer-at-top-business-group-2732716973,,Full-time,,
+Software Engineer 1,,Dell Technologies,"Join us as a Software Engineer 1 on our Telco team in Cairo to do the best work of your career and make a profound social impact.
+
+The Software Engineering team delivers next-generation application enhancements and new products for a changing world. Working at the cutting edge, we design and develop software for platforms, peripherals, applications and diagnostics — all with the most advanced technologies, tools, software engineering methodologies and the collaboration of internal and external partners.
+
+Dell Telecom Systems Business Unit
+
+We create products and solutions catering for the worldwide telecommunications market, which is exploding with new and exciting opportunities made possible by new developments such as 5G, Internet of Things, and virtualized radio access networks (RANs). The market consists of communication service providers, managed service providers, hosting companies, content delivery network companies, cloud service providers, and consumer/enterprise web-technology providers.
+
+Our engineering team is responsible for the creation and delivery of great software products and solutions, as well as services offerings for and to this market. The team works closely with a world-class product management team in defining and road-mapping the offerings. We take pride in creating top market products which are unique, cutting-edge, and win the confidence of Telco customers.
+
+What You’ll Achieve
+
+As a Software Engineer 1, you will be responsible for developing sophisticated systems and software basis the customer’s business goals, needs and general business environment creating software solutions.
+
+You Will
+Demonstrate your ability to design, code, test, and deliver Dell’s Bare Metal Automation product portfolio for our Telecom Systems Business
+Contribute to the effort on automation, CI/CD processes and tools to make our services simpler and more robust
+Be an active member of an agile team, collaboratively realizing features through development, test and delivery
+Take the first step towards your dream career
+
+Essential Requirements
+
+Every Dell Technologies team member brings something unique to the table. Here’s what we are looking for with this role:
+Strong problem-solving and analytical skills
+Knowledge of Go along with Python/C/C++ to develop large scale distributed software systems with tools like PostgreSQL, MongoDB, gRPC and REST APIs
+Ability to code/debug more sophisticated programs using either written or verbal design specifications
+Capacity to achieve proficiency of new tools, languages and operating systems with training and on-the-job experience
+Excellent verbal and written communication skills
+1–3 years of related experience
+Desirable Requirements
+Graduate from Computer Science or a related field
+Here’s our story; now tell us yours
+
+Dell Technologies helps organizations and individuals build a brighter digital tomorrow. Our company is made up of more than 150,000 people, located in over 180 locations around the world. We’re proud to be a diverse and inclusive team and have an endless passion for our mission to drive human progress.
+
+What’s most important to us is that you are respected, feel like you can be yourself and have the opportunity to do the best work of your life -- while still having a life. We offer excellent benefits, bonus programs, flexible work arrangements, a variety of career development opportunities, employee resource groups, and much more.
+
+We started with computers, but we didn’t stop there. We are helping customers move into the future with multi-cloud, AI and machine learning through the most innovative technology and services portfolio for the data era. Join us and become a part of what’s next in technology, starting today.
+
+You can also learn more about us by reading our latest Diversity and Inclusion Report and our plan to make the world a better place by 2030 here.
+
+Application closing date: 2nd October 2021
+
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Dell encourages applicants of all ages. Read the full Equal Employment Opportunity Policy here.
+
+Job Id: R135602Job Function: Engineering Development",https://eg.linkedin.com/jobs/view/software-engineer-1-at-dell-technologies-2732149076,Not Applicable,Full-time,Information Technology and Engineering,"Computer Hardware, Computer Software, and Information Technology and Services"
+Data Scientist Intern,,Careem,"About Careem
+
+Data Scientist internship (PhD) Job Description
+
+At Careem, our mission is to simplify and improve the lives of people and create an awesome organisation that inspires. With this vast mission statement, we started by improving transportation and delivery in the region, and now we are expanding into Payment and we’ve launched a super-app, hosting multiple Careem and 3rd-party apps, to further simplify and improve people’s everyday life.
+
+We built the first multi-billion dollar tech startup in the MENAP region. The first line of code was written in Pakistan and we built on it further in Dubai and Berlin. We operate in 100+ cities across 11 countries. We joined Uber officially in early 2020. We grew and attracted top global talent and grew a culture for bold ambitions, shooting for the moon, innovation with tight constraints, and being Careem/gracious.
+
+What you’ll do
+
+Some Of The Problems The Data Science Team Works On Are
+
+This role is for a 6 month internship Minimum as part of the data science team for PhD students in their penultimate year of graduation. Data Scientists at Careem are part of a team that's leading the next wave of enablement at a whole new scale. We develop descriptive and predictive models as well as run extensive data analyses on millions of customer transactions supported by a cutting edge data platform to unlock big opportunities that simplify lives of people through reliable transportation.
+Relevance and recommendation engine according to customer behaviour
+Dynamic pricing optimization
+Optimal dispatching
+Fraud detection and prevention
+ETA prediction
+Location search optimization
+As part of this team, you’ll be working on some or all of the below:
+Implementing scalable machine learning algorithms that will be used in production on big data.
+Design and run randomized controlled experiments, analyze the resulting data and communicate results with other teams.
+Embarking on exploratory data analysis projects to achieve better understanding of phenomena as well as to discover untapped areas of growth and optimization.
+Answering complex analytic questions from big data sets to help Careem shape its products and services in a better way.
+Interpreting results of your analysis, validating their approach, and learning to monitor, analyze, and iterate to continuously improve.
+Engaging with peer stakeholders to produce clear, compelling, actionable insights that influence product and service improvements that will impact millions of customers.
+What we’re looking for
+
+Successful candidates will ideally exhibit and be able to demonstrate most of the below requirements.
+Must be in the penultimate year of graduation of a PhD in Computer Science, Mathematics, Statistics, Applied Sciences such as Physics or other quant-focused fields.
+Proficiency using one or more programming or scripting language to work with data (Python is a preferred language).
+Experience and/or coursework performing data analysis and applying statistics working with tools (e.g., R, MATLAB, AMPL, or SAS).
+Experience and/or coursework with business intelligence and visualization tools (Tableau is a preferred option) along with geospatial data processing skills.
+Experience and/or coursework applying ML to a type of data, including the application of ML algorithms on large scale data sets, and understanding of various ML algorithms and evaluations techniques.
+Hands on experience in development of deep / machine learning algorithms in PyTorch/ TensorFlow for computer vision / speech / natural language processing applications.
+Hands-on experience with big data processing.
+Experience in building industrial machine / deep learning systems.
+Passion to learn from your peers, manager, and other stakeholders in the Data Science and AI domain.
+Ability to interact with peers and stakeholders to drive product and business impact.
+Strong interpersonal and communications skills.",https://eg.linkedin.com/jobs/view/data-scientist-intern-at-careem-2733067048,Internship,Internship,Engineering and Information Technology,Internet and Information Technology and Services
+Big Data Engineer - Jumia Food (Alexandria),,Jumia Egypt,"Main Responsibilities:
+
+Contribute to the design and construction of the company data lake
+Collect, store, process, and support the analysis of huge sets of data, both structured and unstructured
+Choosing optimal solutions to use in big data use cases, then maintain, implement, monitor and integrate them with the data and IT architecture used across the company
+Build and teach the company about big data technologies, participate actively in the journey setup, from the discovery phase until the corporate data-centric transformation
+Build solutions with key concepts: security and privacy by design
+
+Requirements:
+
+Knowledge of the Linux operation system (OS, networking, process level)
+Understanding of Big Data technologies (Hadoop, Hbase, Spark, Kafka, Flume, Hive, etc)
+Understanding of one or more object-oriented programming languages (Java, C++, C#, Python)
+Fluent in at least one scripting language (Shell, Python, Ruby, etc.)
+Experience with at least one Hadoop distribution (Cloudera, MapR or preferably Hortonworks)
+Experience building complex data processing pipelines using continuous integration tools
+Experience with Cassandra, MongoDB or equivalent NoSQL databases
+Experience developing in an Agile environment
+Bachelor’s / Master’s / PhD degree in Computer Science or related field
+3+ years of building data pipelines experience or equivalent
+Nice to have: Experience in designing big data/distributed systems
+Nice to have: Experience creating and driving large scale ETL pipelines
+
+We offer:
+
+A unique experience in an entrepreneurial, yet structured environment
+The opportunity to become part of a highly professional and dynamic team working around the world
+An unparalleled personal and professional growt as our longer-term objective is to train the next generation of leaders for our future internet ventures",https://eg.linkedin.com/jobs/view/big-data-engineer-jumia-food-alexandria-at-jumia-egypt-2731239380,,Full-time,,
+Software Engineer - Advanced,,Siemens,"Overview
+
+As a DevOps Engineer you will have key responsibilities in planning, implementing, and operating DevOps infrastructure and processes in a cloud environment. You will also help application development teams and serve as a conduit to ensure that best practices in the areas of security, continuous integration and continuous delivery are met across organizations. You will be a subject matter expert on DevOps topics, and help define process and best practices accordingly.
+
+Responsibilities
+
+Develop and improve the tools and technologies that make up a continuous delivery software development pipeline.
+Support key pieces of DevOps cloud infrastructure and maintain a high level of availability.
+Consult directly with application teams and senior members of the team to help achieve success - specifically in areas of CI/CD, Containers, and cloud deployments. This might mean providing troubleshooting experience across a full stack or developing automation to keep the runtime environment updated with zero downtime.
+Scale systems in a sustainable fashion through automation and evolve systems by pushing for changes that improve reliability and velocity.
+Continuing to learn and develop skills in a rapidly developing ecosystem.
+
+Requirements
+
+Troubleshooting skills across network, application, caching, queuing, load-balancing, storage and distributed services layers.
+Experience implementing Continuous Integration / Delivery systems of large scale multi-language software development.
+Understanding of developing and releasing software into production using the AWS stack.
+Understanding of Containers and Kubernetes.
+Experience programming in Python, Go, and/or Bash.
+
+And at least one of the below:
+
+3yrs Linux system administration experience, including troubleshooting, support, mentor-ship / training, and oversight.
+1yrs with networking and network/system security, including firewalls, VPN, routing, switching, load balancers, monitoring, security and DNS.
+1yrs experience running large scale online systems built on AWS or similar cloud providers.
+Experience with administration of Kubernetes clusters in production.
+Experience with Infrastructure as Code, utilizing tools such as Terraform and Ansible.
+
+You'd be a great fit if...
+
+You're excited to be part of a core group that defines standards for thousands of developers.
+You enjoy figuring out how to make implementing and meeting those standards easy for the developers.
+You're motivated by both open-ended challenges and practical it-just-needs-to-get-done code: whatever has the most impact.
+You're eager to learn from your teammates and have something to teach them as well.
+You may have a particular area of expertise but think of yourself as a generalist who likes to challenge yourself in new areas (and wants to work with a team that encourages you to do so).
+
+Location Preference
+
+Pune, India
+
+Organization: Digital Industries
+
+Company: Siemens Industry Software (India) Private Limited
+
+Experience Level: Experienced Professional
+
+Job Type: Full-time",https://eg.linkedin.com/jobs/view/software-engineer-advanced-at-siemens-2736925509,Mid-Senior level,Full-time,Research,Electrical/Electronic Manufacturing
+Big Data Engineer,,Arrow Electronics,"Position:
+
+Big Data Engineer
+
+Job Description:
+
+Data Engineer Roles and Responsibilities:
+
+Collect and process raw data at scale for a variety of projects and initiatives.
+Design and develop data applications using selected tools and frameworks as required
+Read, extract, transform, stage and load data to selected tools and frameworks as required and requested.
+Perform tasks such as writing scripts, calling APIs, write SQL queries, etc.
+Process unstructured data into a form suitable for analysis.
+Analyze processed data.
+Monitoring data performance and modifying infrastructure as needed.
+Define data retention policies.
+Location:
+
+EG-Banha, Egypt (EI Corniche Street)
+
+Time Type:
+
+Full time
+
+Job Category:
+
+Information Technology",https://eg.linkedin.com/jobs/view/big-data-engineer-at-arrow-electronics-2716781977,Associate,Full-time,Information Technology,"Information Technology and Services, Electrical/Electronic Manufacturing, and Wholesale"
+Software Development Engineer,,Siemens,"Siemens EDA is a global technology powerhouse. With some of the best-known brands in the world, Siemens has stood for engineering excellence, innovation, quality, and reliability for more than 165 years.
+
+We are seeking highly motivated, responsible and self-starting Software Development Engineer to join our forward thinking R&D team in Cairo, Egypt to work in Calibre Pattern Matching.
+
+The Calibre Pattern Matching tool provides signoff-quality pattern classification, matching, and debugging integrated with the Calibre suite of verification tools. Benefit from the speed and accuracy of pattern matching is utilized across Calibre design and manufacturing flows. This is role with a truly global scope, and the opportunity to drive continuous improvement of one our most important services.
+
+Main Responsibilities
+
+Design, improve, implement, and release software that meets functionality, usability, reliability, performance, and supportability requirements.
+Interface with other developers as needed to understand and manage interdependencies of project tasks, product and flow integration issues. Participate in reviews and/or inspections of, designs, specifications, and code.
+Participate in project planning and tracking - task investigation, work breakdown, and schedule estimation. Keep project team members, adjacent teams, QA teams, Customer Support and Marketing informed of project risks and status.
+Write functional and design specifications.
+Work with Marketing, QA to understand and support customer needs and requirements.
+Required skills, knowledge and experience
+
+B.Sc. in Computer Engineering, Electronics Engineering or Computer Science.
+0-5 years of experience.
+Very good knowledge or experience in S/W programming using C++.
+Familiar with S/W algorithms and data structures.
+Good knowledge of the IC flow as well as Semiconductor fabrication and Physical Verification is an asset.
+Knowledge in Unix/Linux operating system environments.
+Highly developed communication skills, including the ability to present ideas and share your knowledge with others.
+
+We're looking for both fresh graduates and senior engineers.
+
+We’re Siemens. A collection of over 377,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we welcome applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit and business need. Bring your curiosity and creativity and help us shape tomorrow!
+
+We offer a comprehensive reward package which includes a competitive basic salary and a generous holiday allowance.
+
+Siemens is an equal opportunities employer and do not discriminate unlawfully on any grounds. We are committed to providing access, equal opportunity for individuals with disabilities in employment, its services, programs, and activities.
+
+Siemens Software. Where today meets tomorrow.
+
+Organization: Digital Industries
+
+Company: Mentor Graphics Egypt Company (A Limited Liability Company - Private Free Zone)
+
+Experience Level: Experienced Professional
+
+Job Type: Full-time",https://eg.linkedin.com/jobs/view/software-development-engineer-at-siemens-2733824312,Mid-Senior level,Full-time,Research,Electrical/Electronic Manufacturing
+Flutter Developer,,Multi Choice Technology,"We are hiring a Flutter developer to join our team Now
+work: from house
+location: Nasr City, Cairo
+Experience: 2 years
+Work experience: 2 apps as a minimum ",https://eg.linkedin.com/jobs/view/flutter-developer-at-multi-choice-technology-2731627232,,Full-time,,
+Flutter Developer,,Quadratech Soft,"Job Description
+Have two or more iOS/Android apps developed with Flutter. Either deployed on the AppStore/Google Play or available on GitHub.
+2+ years in mobile software development.
+Experience with third-party libraries and APIs.
+Understanding of the Agile development life-cycle.
+Experience with automated testing and building.
+Experience with Git, Jenkins, or other version control tools.
+Ability to write readable code, create extensive documentation for existing code, and refactor the previously written code into readable state.
+Job Requirements
+Engineering Bachelor's degree or relevant.
+Flutter experience is a must
+2 to 3 years of experience in same role. 
+Good command of English language both written and spoken.
+Excellent communication and negotiation skills.",https://eg.linkedin.com/jobs/view/flutter-developer-at-quadratech-soft-2734969665,,Full-time,,
+Software Developer,,Total Soft Bank Ltd.,"Qualifications
+·        Developing Languages: C# and VB.NET
+·       Proficient in JavaScript, HTMS5, JSON, XML and SQL Query (Oracle)
+·       Excellent command of English
+·       Prefer 2 ~ 3 years working experience
+·       Military service is exempted",https://eg.linkedin.com/jobs/view/software-developer-at-total-soft-bank-ltd-2730824622,,Full-time,,
+Informatica / Big Data Engineer,,CornerStone Consulting Services - Egypt,"Job description
+We assist companies to realize the value, efficiency, and productivity of their data. We take customers on their journey to enable, operate, and innovate using various technologies – from migration strategy to operational excellence and immersive transformation.
+
+If you like a challenge, you’ll love it here, because we’re solving complex business problems every day, building and promoting great technology solutions that impact our customers’ success. The best part is, we’re committed to you and your growth, both professionally and personally.
+
+Overview
+
+• Our Big Data Engineers are experienced technologists with technical depth and breadth, along with strong interpersonal skills. In this role, you will work directly with customers and our team to help enable innovation through continuous, hands-on, deployment across technology stacks. You will work to build data pipelines and by developing data engineering code ( as well as writing complex data queries and algorithms.
+• If you get a thrill working with cutting-edge technology and love to help solve customers’ problems, we’d love to hear from you. It’s time to rethink the possible. Are you ready?
+
+What You’ll Be Doing
+
+• Build complex ETL code
+• Build complex SQL queries using Oracle,MongoDB, Oracle, SQL Server, MariaDB, MySQL
+• Experience in Bigdata Hive, Impala, HDFS
+• Work on Data and Analytics Tools in the Cloud
+• Data profiling and understand data quality issues
+• Create scorecard, trend chart to measure the data quality
+• Do unit testing , integration testing and UAT and do code migration
+• Develop code using Python, Scala, R languages
+• Work with technologies such as Spark, Hadoop, Kafka, etc.
+• Build complex Data Engineering workflows
+• Create complex data solutions and build data pipelines
+• Establish credibility and build impactful relationships with our customers to enable them to be cloud advocates
+• Capture and share industry best practices amongst the community
+• Attend and present valuable information at Industry Events
+
+
+Qualifications & Experience
+
+• 3 to 7 years design & implementation experience with distributed applications
+• 3 to 7 years of experience in database architectures and data pipeline development
+• Demonstrated knowledge of software development tools and methodologies
+• Presentation skills with a high degree of comfort speaking with executives, IT management, and developers
+• Excellent communication skills with an ability to right level conversations
+• Technical degree required; Computer Science or Math background desired
+• Demonstrated ability to adapt to new technologies and learn quickly
+
+Location
+work would be remotely with ability to travel to gulf region
+
+Contract
+6 months renewable upon work needs",https://eg.linkedin.com/jobs/view/informatica-big-data-engineer-at-cornerstone-consulting-services-egypt-2718138887,,Contract,,
+Big Data Engineer,,Rackspace Technology,"Our Big Data Engineers are experienced technologists with technical depth and breadth, along with strong interpersonal skills. In this role, you will work directly with customers and our team to help enable innovation through continuous, hands-on, deployment across technology stacks. You will work to build data pipelines and by developing data engineering code ( as well as writing complex data queries and algorithms.
+
+If you get a thrill working with cutting-edge technology and love to help solve customers’ problems, we’d love to hear from you. It’s time to rethink the possible. Are you ready?
+
+What You’ll Be Doing
+Build complex ETL code
+Build complex SQL queries using MongoDB, Oracle, SQL Server, MariaDB, MySQL
+Work on Data and Analytics Tools in the Cloud
+Develop code using Python, Scala, R languages
+Work with technologies such as Spark, Hadoop, Kafka, etc.
+Build complex Data Engineering workflows
+Create complex data solutions and build data pipelines
+Establish credibility and build impactful relationships with our customers to enable them to be cloud advocates
+Capture and share industry best practices amongst the community
+Attend and present valuable information at Industry Events
+Qualifications & Experience
+3+ years design & implementation experience with distributed applications
+2+ years of experience in database architectures and data pipeline development
+Demonstrated knowledge of software development tools and methodologies
+Presentation skills with a high degree of comfort speaking with executives, IT management, and developers
+Excellent communication skills with an ability to right level conversations
+Technical degree required; Computer Science or Math background desired
+Demonstrated ability to adapt to new technologies and learn quickly
+About Rackspace Technology
+
+We are the multicloud solutions experts. We combine our expertise with the world’s leading technologies — across applications, data and security — to deliver end-to-end solutions. We have a proven record of advising customers based on their business challenges, designing solutions that scale, building and managing those solutions, and optimizing returns into the future. Named a best place to work, year after year according to Fortune, Forbes and Glassdoor, we attract and develop world-class talent. Join us on our mission to embrace technology, empower customers and deliver the future.
+
+More on Rackspace Technology
+
+Though we’re all different, Rackers thrive through our connection to a central goal: to be a valued member of a winning team on an inspiring mission. We bring our whole selves to work every day. And we embrace the notion that unique perspectives fuel innovation and enable us to best serve our customers and communities around the globe. We welcome you to apply today and want you to know that we are committed to offering equal employment opportunity without regard to age, color, disability, gender reassignment or identity or expression, genetic information, marital or civil partner status, pregnancy or maternity status, military or veteran status, nationality, ethnic or national origin, race, religion or belief, sexual orientation, or any legally protected characteristic. If you have a disability or special need that requires accommodation, please let us know.",https://eg.linkedin.com/jobs/view/big-data-engineer-at-rackspace-technology-2718779297,Entry level,Full-time,Engineering and Information Technology,"Information Technology and Services, Computer Software, and Financial Services"
+Software Engineer 2 – Research and Innovation,,Dell Technologies,"The Dojo team is fast paced and exhilarating. As part of the Dell Technologies Office of the CTO, we research and innovate on the future of Dell technology in a high visibility, collaborative team of senior technologists, data scientists, customer engagement specialists, and world class hardware/software engineers and architects. We work together to keep the pulse of technology and reduce our customer’s future challenges by exploring the art of the possible.
+
+What You’ll Achieve
+
+As a Software Engineer on the Dojo Research team, your primary responsibility will be to research and develop new technologies and create proof-of-concepts to advance Dell’s technology into the future. We are looking for technologists who are comfortable learning and adapting easily to meet the needs of our rapidly evolving business. One day we may be working on low level code, the next we may be prototyping new user interface design. You will work in pairs, employing an Extreme Programming (XP) style of execution designed to support both open ended research as well as well-defined development deliverables. By working on small cross functional teams, you will have the ability to work in all layers of the stack and collaborate constantly, continually growing your skills. Enjoy an agile startup-like environment with all the benefits of a large company like Dell.
+
+You Will
+Work closely with other developers as part of a small cross-functional team as well as with Product Management and Leadership to make decisions and share your work
+Deliver insights and proof-of-concepts to test out new technology
+Share your ideas and opinions with the team
+Rotate through different projects and technologies
+Take the first step towards your dream career
+
+Essential Requirements
+
+Every Dell Technologies team member brings something unique to the table. Here’s what we are looking for with this role:
+You have a solid understanding of programming logic and patterns
+You have the ability and open mindedness to quickly learn about new development methodologies and cutting-edge technologies such as edge, security, and machine learning
+You have strong communication skills and an ability to articulate and shape technical vision
+You are self-motivated, enthusiastic, energetic and passionate about technology
+You have experience or interest in DevOps and Extreme Programming (XP)
+You have experience in two or more of the following languages: Go, Java, Ruby, JavaScript, C++, Bash, Python, C, or others
+Work/life balance is important to you
+You have 2+ years (Bachelor’s degree) of software development, software architecture, or applied research; an advanced degree without experience; or equivalent experience.
+Here’s our story; now tell us yours
+
+Dell Technologies helps organizations and individuals build a brighter digital tomorrow. Our company is made up of more than 150,000 people, located in over 180 locations around the world. We’re proud to be a diverse and inclusive team and have an endless passion for our mission to drive human progress.
+
+What’s most important to us is that you are respected, feel like you can be yourself and have the opportunity to do the best work of your life -- while still having a life. We offer excellent benefits, bonus programs, flexible work arrangements, a variety of career development opportunities, employee resource groups, and much more.
+
+We started with computers, but we didn’t stop there. We are helping customers move into the future with multi-cloud, AI and machine learning through the most innovative technology and services portfolio for the data era. Join us and become a part of what’s next in technology, starting today.
+
+You can also learn more about us by reading our latest Diversity and Inclusion Report and our plan to make the world a better place by 2030 here.
+
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Dell encourages applicants of all ages. Read the full Equal Employment Opportunity Policy here.
+
+You can also learn more about us by reading our latest Diversity and Inclusion Report and our plan to make the world a better place by 2030 here.
+
+Dell is committed to the principle of equal employment opportunity for all employees and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Dell are based on business needs, job requirements and individual qualifications, without regard to race, color, religion or belief, national, social or ethnic origin, sex (including pregnancy), age, physical, mental or sensory disability, HIV Status, sexual orientation, gender identity and/or expression, marital, civil union or domestic partnership status, past or present military service, family medical history or genetic information, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Dell will not tolerate discrimination or harassment based on any of these characteristics. Dell encourages applicants of all ages. Read the full Equal Employment Opportunity Policy here.
+
+Job Id: R104954Job Function: Engineering Development",https://eg.linkedin.com/jobs/view/software-engineer-2-%E2%80%93-research-and-innovation-at-dell-technologies-2732326462,Not Applicable,Full-time,Information Technology and Engineering,"Computer Hardware, Computer Software, and Information Technology and Services"
+Research Software Development Engineer,,Microsoft,"Microsoft Clarity aspires to be the leading behavioral analytics tool for the web. We offer a rich intuitive design, deep user insights, as well as seamless and smart ways site owners can delight their visitors. We pride ourselves on our team culture, can-do attitude and startup like environment. We also work at various levels of the stack, building a world class service with focus on resilience and reliability.
+
+We seek junior to mid-level RSDEs to help us deliver the next generation data-driven features across a slew of specialized domains. Such features are key for our customers to make informed and accurate decisions, to take their experience and business to the next level. Successful candidates should have a strong background in state-of-the-art machine learning techniques. They should have a passion for building solutions and insights from seemingly complex data, as well as work on ideas at various stages of development. We promise a fast-paced learning environment and are looking for fast learners and go-doers.
+
+Responsibilities
+Work with applied scientists and the broader team to realize machine learning based features that deliver insights from huge data-sets and delight our users
+Drive end-to-end data science projects throughout: problem definition, data exploration / preparation, model building and model evaluation (dealing with textual, user interaction and time-series data)
+Iterate quickly to verify and refine assumptions, as well as build new insights
+Exercise curiosity, nimbleness and grit, in addition to finding creative ways to answer seemingly difficult questions
+
+Qualifications
+Bachelor's degree in computer science, computer engineering or a related field
+Strong familiarity with machine learning and deep learning concepts through work or study
+Possessing a data-centric, analytical mindset and strong problem solving skills
+Ability to learn quickly, work independently and deal with ambiguity
+Fluency in programming and scripting languages: C# and python preferred
+Practical work experience in ML is preferred
+[Optional] Familiarity with big data frameworks: e.g. Hadoop, Spark, Hive or Cassandra
+[Optional] Familiarity with ML frameworks / libraries: TensorFlow, Keras, PyTorch or Caffe
+
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.
+
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.",https://eg.linkedin.com/jobs/view/research-software-development-engineer-at-microsoft-2667622473,Not Applicable,Full-time,Engineering and Information Technology,"Computer Hardware, Computer Software, and Information Technology and Services"
+Software Development Engineer,,Siemens,"Siemens EDA is a global technology powerhouse. With some of the best-known brands in the world, Siemens has stood for engineering excellence, innovation, quality, and reliability for more than 165 years.
+
+We are seeking highly motivated, responsible and self-starting Software Development Engineer to join our forward thinking R&D team in Cairo, Egypt to work in Calibre Parasitic Extraction
+
+The Calibre Parasitic Extractiontool provides signoff-quality pattern classification, matching, and debugging integrated with the Calibre suite of verification tools. Benefit from the speed and accuracy of pattern matching is utilized across Calibre design and manufacturing flows. This is role with a truly global scope, and the opportunity to drive continuous improvement of one our most important services.
+
+Main Responsibilities
+
+Design, improve, implement, and release software that meets functionality, usability, reliability, performance, and supportability requirements.
+Interface with other developers as needed to understand and manage interdependencies of project tasks, product and flow integration issues. Participate in reviews and/or inspections of, designs, specifications, and code.
+Participate in project planning and tracking - task investigation, work breakdown, and schedule estimation. Keep project team members, adjacent teams, QA teams, Customer Support and Marketing informed of project risks and status.
+Write functional and design specifications.
+Work with Marketing, QA to understand and support customer needs and requirements.
+Required skills, knowledge and experience
+
+B.Sc. in Computer Engineering, Electronics Engineering or Computer Science.
+0-5 years of experience.
+Very good knowledge or experience in S/W programming using C++.
+Familiar with S/W algorithms and data structures.
+Good knowledge of the IC flow as well as Semiconductor fabrication and Physical Verification is an asset.
+Knowledge in Unix/Linux operating system environments.
+Highly developed communication skills, including the ability to present ideas and share your knowledge with others.
+
+We're looking for both fresh graduates and senior engineers.
+
+We’re Siemens. A collection of over 377,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we welcome applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit and business need. Bring your curiosity and creativity and help us shape tomorrow!
+
+We offer a comprehensive reward package which includes a competitive basic salary and a generous holiday allowance.
+
+Siemens is an equal opportunities employer and do not discriminate unlawfully on any grounds. We are committed to providing access, equal opportunity for individuals with disabilities in employment, its services, programs, and activities.
+
+Siemens Software. Where today meets tomorrow.
+
+Organization: Digital Industries
+
+Company: Mentor Graphics Egypt Company (A Limited Liability Company - Private Free Zone)
+
+Experience Level: Mid-level Professional
+
+Job Type: Full-time",https://eg.linkedin.com/jobs/view/software-development-engineer-at-siemens-2681877736,Mid-Senior level,Full-time,Research,Electrical/Electronic Manufacturing
+Flutter Developer,,Special Codes,"Job Description
+Ownership, accountability & proactivity - you build it, you own it, you run it. 
+Team player with a collaborating, sharing & learning mindset 
+Share your knowledge, we will share ours. 
+Focus on best engineering practices for quality, clean code, testing & observability. - Proficiency in Flutter.
+
+Job Requirements
+Proficiency in Flutter
+Experience with:
+At least 3 Flutter development
+Knowledge of modern architectural patterns in mobile development (BLoC, MVVM) and the principles of functional programming
+Understanding the principles of DRY, SOLID, GRASP, and GoF patterns
+Experience in creating multi-module projects",https://eg.linkedin.com/jobs/view/flutter-developer-at-special-codes-2735090749,,Contract,,
+Software Engineer,,KARILINER IT SOLUTIONS PTY LTD,"Who we are:
+
+KARILINER IT Solutions is a software development company. It was established in 2017. We specialize in custom software development and IT staff augmentation services.
+We employ highly skilled specialist consultants and maintain a pool of consultants to take on any size of the project.
+
+At KARILINER IT Solutions, our client’s best interest comes first, and everything we do is guided by our values and professional ethics. We will ensure that we hire consultants who are very experienced in the industry. We will ensure that we hold ourselves accountable to the highest standards by meeting our client’s needs precisely and completely.
+ What we are looking for:
+We are looking for experienced strong technical Developers to work on a remote project.
+If you have skills in any of the below technologies and frameworks:
+ C#.NET Core + React, Angular, Golang
+JavaScript, Java, Node, React, Python, Ruby, C#, Android, iOS, Perl
+Data science, Artificial Intelligence, Machine Learning
+Knowledge of Algorithms and Data Structures – (A must)
+Bachelor's degree or equivalent experience in Computer Science or related field– (Advantageous but not required)
+
+Experience and Personality:
+5+ years of experience
+Problem solver
+Good communicator
+Soft skills
+Speak and write English
+ Job entails:
+100% remote work
+Flexible hours – work on your own schedule
+Part-time or Full-time engagement
+Competitive compensation",https://eg.linkedin.com/jobs/view/software-engineer-at-kariliner-it-solutions-pty-ltd-2737307123,,Part-time,,
+Software Development Engineer,,Siemens,"Siemens EDA is a global technology powerhouse. With some of the best-known brands in the world, Siemens has stood for engineering excellence, innovation, quality, and reliability for more than 165 years.
+
+We are seeking highly motivated, responsible and self-starting Software Development Engineer to join our R&D team to work in Calibre® PEX (Parasitic extraction team) in Cairo, Egypt.
+
+Main Responsibilities
+
+Design, improve, implement, and release software that meets functionality, usability, reliability, performance, and supportability requirements.
+Interface with other developers as needed to understand and manage interdependencies of project tasks, product and flow integration issues. Participate in reviews and/or inspections of, designs, specifications, and code.
+Participate in project planning and tracking - task investigation, work breakdown, and schedule estimation. Keep project team members, adjacent teams, QA teams, Customer Support and Marketing informed of project risks and status.
+Write functional and design specifications.
+Work with Marketing, QA to understand and support customer needs and requirements.
+Required skills, knowledge and experience
+
+B.Sc. in Computer Engineering or Electronics Engineering.
+0-3 years of experience
+Very good knowledge in S/W programming using C++.
+Experience in S/W algorithms and data structures.
+Solid knowledge of the IC flow as well as Semiconductor fabrication and Physical Verification.
+Knowledge in Unix/Linux operating system environments.
+Highly developed communication skills, including the ability to present ideas and share your knowledge with others.
+
+We’re Siemens. A collection of over 377,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we welcome applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit and business need. Bring your curiosity and creativity and help us shape tomorrow!
+
+We offer a comprehensive reward package which includes a competitive basic salary and a generous holiday allowance.
+
+Siemens is an equal opportunities employer and do not discriminate unlawfully on any grounds. We are committed to providing access, equal opportunity for individuals with disabilities in employment, its services, programs, and activities.
+
+Siemens Software. Where today meets tomorrow.
+
+Organization: Digital Industries
+
+Company: Mentor Graphics Egypt Company (A Limited Liability Company - Private Free Zone)
+
+Experience Level: Early Professional
+
+Job Type: Full-time",https://eg.linkedin.com/jobs/view/software-development-engineer-at-siemens-2697759364,Associate,Full-time,Research,Electrical/Electronic Manufacturing
+Software Development Engineer,,Siemens,"Siemens EDA is a global technology powerhouse. With some of the best-known brands in the world, Siemens has stood for engineering excellence, innovation, quality, and reliability for more than 165 years.
+
+We are seeking highly motivated, responsible and self-starting Software Development Engineer to join our team in Cairo, Egypt.
+
+Main Responsibilities
+
+Acquire and maintain knowledge of current tools, languages, and processes as needed to support design, implementation, and release of current and future software.
+Participate in the design, improvement, implementation, testing and release of software that meets functionality, usability, reliability, performance, and supportability requirements.
+Participate in reviews of requirements, specifications, and code.
+Run regression tests on different HW and Operating system platforms.
+Create and run unit test for new defects and enhancements.
+Work closely with Development, Quality Assurance and Marketing teams to ensure the quality of the products.
+Collaborate with internal/abroad teams in USA and Poland to understand and discuss details of requirements and implementation.
+Required skills, knowledge and experience
+
+B.Sc. in Computer Engineering or Computer Science from a reputable University.
+0-3 years of experience.
+Excellent Knowledge in Python and Verilog.
+Experience in C/C++and PCB Design Flow is a plus!
+Knowledge in quality assurance and testing methodologies.
+Familiar with MS Visual Studio and UNIX and shell scripting.
+Highly developed communication skills, including the ability to present ideas and share your knowledge with others.
+
+We’re Siemens. A collection of over 377,000 minds building the future, one day at a time in over 200 countries. We're dedicated to equality, and we welcome applications that reflect the diversity of the communities we work in. All employment decisions at Siemens are based on qualifications, merit and business need. Bring your curiosity and creativity and help us shape tomorrow!
+
+We offer a comprehensive reward package which includes a competitive basic salary and a generous holiday allowance.
+
+Siemens is an equal opportunities employer and do not discriminate unlawfully on any grounds. We are committed to providing access, equal opportunity for individuals with disabilities in employment, its services, programs, and activities.
+
+Siemens Software. Where today meets tomorrow.
+
+Organization: Digital Industries
+
+Company: Mentor Graphics Egypt Company (A Limited Liability Company - Private Free Zone)
+
+Experience Level: Mid-level Professional
+
+Job Type: Full-time",https://eg.linkedin.com/jobs/view/software-development-engineer-at-siemens-2731046358,Mid-Senior level,Full-time,Research,Electrical/Electronic Manufacturing
